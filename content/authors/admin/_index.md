@@ -27,7 +27,7 @@ interests:
 
 education:
   courses:
-  - course: PhD in Psychology (Neuroscience)
+  - course: PhD in Psychology
     institution: Stanford University
     year: 2019
   - course: BA in Cognitive Science
@@ -41,7 +41,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: mailto:zenkavi@caltech.edu  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/zeynepenkavi
@@ -51,11 +51,12 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/zenkavi
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/zeynep-enkavi/
+- icon: cv
+  icon_pack: ai
+  link: files/AyseZeynepEnkavi_CV_Aug2020.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -67,4 +68,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a postdoctoral scholar at Caltech working with [Antonio Rangel](http://www.hss.caltech.edu/people/antonio-rangel). I received my PhD from Stanford where I worked with [Russell Poldrack](https://profiles.stanford.edu/russell-poldrack). I study the neural correlates of decision-making, particularly decisions that involve self-regulation. My work has a strong emphasis on methodological rigor and reproducibility. To this end I investigate the psychometric properties of measures in the field and build statistical models for neuroimaging data that account for the brain's network structure. I work with open-source tools and share my code and data.
