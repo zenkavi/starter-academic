@@ -1,28 +1,38 @@
 ---
-title: "Correlation Database of 60 Cross-Disciplinary Surveys and Cognitive Tasks Assessing Self-Regulation"
+title: "Applying novel technologies and methods to inform the ontology of self-regulation"
 authors:
-- Gina L Mazza
-- Heather L Smyth
-- Patrick G Bissett
-- Jessica R Canning
-- Ian W Eisenberg
-- A Zeynep Enkavi
+- Ian W.Eisenberg
+- Patrick G.Bissett
+- Jessica R.Canning
+- Jesse Dallery
+- A. Zeynep Enkavi
+- Susan Whitfield-Gabrieli
 - Oscar Gonzalez
+- Alan I. Green
+- Mary Ann Greene
+- Michaela Kiernan
 - Sunny Jung Kim
-- Stephen A Metcalf
-- Felix Muniz
-- William E Pelham III
-- Emily A Scherer
-- Matthew J Valente
+- Jamie Li
+- Michael R.Lowe
+- Gina L. Mazza
+- Stephen A. Metcalf
+- Lisa Onken
+- Sadev S. Parikh
+- EllenPeters
+- Judith J. Prochaska
+- Emily A. Scherer
+- Luke E. Stoeckel
+- Matthew J. Valente
+- Jialing Wu
 - Haiyi Xie
-- Russell A Poldrack
-- Lisa A Marsch
-- David P MacKinnon
-date: "2020-03-31T00:00:00Z"
+- David P. MacKinnon
+- Lisa A. Marsch
+- Russell A. Poldrack
+date: "2017-10-05T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2020-03-31T00:00:00Z"
+publishDate: "2017-10-05T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -31,10 +41,10 @@ publishDate: "2020-03-31T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Journal of Personality Assessment"
+publication: "Behaviour Research and Therapy"
 publication_short: ""
 
-abstract: Self-regulation is studied across various disciplines, including personality, social, cognitive, health, developmental, and clinical psychology; psychiatry; neuroscience; medicine; pharmacology; and economics. Widespread interest in self-regulation has led to confusion regarding both the constructs within the nomological network of self-regulation and the measures used to assess these constructs. To facilitate the integration of cross-disciplinary measures of self-regulation, we estimated product-moment and distance correlations among 60 cross-disciplinary measures of self-regulation (23 self-report surveys, 37 cognitive tasks) and measures of health and substance use based on 522 participants. The correlations showed substantial variability, though the surveys demonstrated greater convergent validity than did the cognitive tasks. Variables derived from the surveys only weakly correlated with variables derived from the cognitive tasks (M = .049, range = .000 to .271 for the absolute value of the product-moment correlation; M = .085, range = .028 to .241 for the distance correlation), thus challenging the notion that these surveys and cognitive tasks measure the same construct. We conclude by outlining several potential uses for this publicly available database of correlations.
+abstract: "Self-regulation is a broad construct representing the general ability to recruit cognitive, motivational and emotional resources to achieve long-term goals. This construct has been implicated in a host of health-risk behaviors, and is a promising target for fostering beneficial behavior change. Despite its clear importance, the behavioral, psychological and neural components of self-regulation remain poorly understood, which contributes to theoretical inconsistencies and hinders maximally effective intervention development. We outline a research program that seeks to define a neuropsychological ontology of self-regulation, articulating the cognitive components that compose self-regulation, their relationships, and their associated measurements. The ontology will be informed by two large-scale approaches to assessing individual differences: first purely behaviorally using data collected via Amazon's Mechanical Turk, then coupled with neuroimaging data collected from a separate population. To validate the ontology and demonstrate its utility, we will then use it to contextualize health risk behaviors in two exemplar behavioral groups: overweight/obese adults who binge eat and smokers. After identifying ontological targets that precipitate maladaptive behavior, we will craft interventions that engage these targets. If successful, this work will provide a structured, holistic account of self-regulation in the form of an explicit ontology, which will better clarify the pattern of deficits related to maladaptive health behavior, and provide direction for more effective behavior change interventions."
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -45,6 +55,6 @@ featured: false
 
 links:
 - name: Article
-  url: https://www.tandfonline.com/doi/abs/10.1080/00223891.2020.1732994
+  url: https://www.sciencedirect.com/science/article/abs/pii/S0005796717302048
 
 ---
