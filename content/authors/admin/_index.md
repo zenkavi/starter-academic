@@ -56,7 +56,7 @@ social:
   link: https://www.linkedin.com/in/zeynep-enkavi/
 - icon: cv
   icon_pack: ai
-  link: files/AyseZeynepEnkavi_CV_Aug2020.pdf
+  link: files/AyseZeynepEnkavi_CV_Jun2021.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
