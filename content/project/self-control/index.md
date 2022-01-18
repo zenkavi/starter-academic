@@ -1,9 +1,9 @@
 ---
-title: Self-regulation
+title: Self-control
 summary: Psychology is rich with related constructs on self-regulation (e.g. impulsivity, self-control, inhibition etc.) and even richer in behavioral tasks and surveys to measure these putative constructs. It does lack, however, a clear understanding of how these constructs and the measures relate to each other. As part of the Science of Behavior Change initiative we addressed this question by running a large battery (35 tasks, 23 surveys) on a large sample (n=552).
 
 tags:
-- Self-regulation
+- Self-control
 date: "2020-10-08T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
@@ -17,7 +17,7 @@ links:
 - icon:
   icon_pack:
   name: Learn More
-  url: "project/self-regulation"
+  url: "project/self-control"
 url_code: ""
 url_pdf: ""
 url_slides: ""
