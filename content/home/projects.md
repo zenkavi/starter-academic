@@ -26,8 +26,8 @@ subtitle = ""
   #   tag = "*"
 
   [[content.filter_button]]
-     name = "Self-regulation"
-     tag = "Self-regulation"
+     name = "Self-control"
+     tag = "Self-control"
 
   [[content.filter_button]]
      name = "Network neuroscience"

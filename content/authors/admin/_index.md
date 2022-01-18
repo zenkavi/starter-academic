@@ -15,14 +15,14 @@ role: Postdoctoral Scholar in Neuroeconomics
 # Organizations/Affiliations
 organizations:
 - name: California Institute of Technology
-  url: ""
+  url: "https://www.hss.caltech.edu/people/ayse-z-enkavi"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include network neuroscience, self-regulation and meta-analysis.
+bio: My research interests include network neuroscience, self-control and reproducibility.
 
 interests:
 - Network neuroscience
-- Self-regulation
+- Self-control
 - Reproducible science
 
 education:
@@ -68,4 +68,4 @@ user_groups:
 - Visitors
 ---
 
-I am a postdoctoral scholar at Caltech working with [Antonio Rangel](http://www.hss.caltech.edu/people/antonio-rangel). I received my PhD from Stanford where I worked with [Russell Poldrack](https://profiles.stanford.edu/russell-poldrack). I study the neural correlates of decision-making, particularly decisions that involve self-regulation. My work has a strong emphasis on methodological rigor and reproducibility. To this end I investigate the psychometric properties of measures in the field and build statistical models for neuroimaging data that account for the brain's network structure. I work with open-source tools and share my code and data.
+I am a postdoctoral scholar at Caltech working with [Antonio Rangel](http://www.hss.caltech.edu/people/antonio-rangel). I received my PhD from Stanford where I worked with [Russell Poldrack](https://profiles.stanford.edu/russell-poldrack). I study the neural correlates of decision-making, particularly decisions that involve self-control. My work has a strong emphasis on methodological rigor and reproducibility. To this end I investigate the psychometric properties of measures in the field and build statistical models for neuroimaging data that account for the brain's network structure.
