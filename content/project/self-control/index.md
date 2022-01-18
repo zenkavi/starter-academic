@@ -4,7 +4,7 @@ summary: Psychology is rich with related constructs on self-regulation (e.g. imp
 
 tags:
 - Self-control
-# date: "2020-10-08T00:00:00Z"
+date: ""
 
 show_date: false  # Show date?
 profile: false  # Show author profile?
@@ -16,11 +16,11 @@ image:
   caption:
   focal_point: Smart
 
-#links:
-#- icon:
-#  icon_pack:
-#  name: Learn More
-#  url: "project/self-control"
+links:
+- icon:
+  icon_pack:
+  name: Learn More
+  url: "project/self-control"
 url_code: ""
 url_pdf: ""
 url_slides: ""
