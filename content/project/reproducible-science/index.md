@@ -5,7 +5,9 @@ summary: Experiment Factory is an “an open source framework for the developmen
 tags:
 - Reproducible science
 # date: "2020-10-08T00:00:00Z"
-show_date: false
+
+show_date: false  # Show date?
+profile: false  # Show author profile?
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
