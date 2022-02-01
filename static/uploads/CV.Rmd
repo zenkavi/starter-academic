@@ -1,0 +1,124 @@
+---
+output: stevetemplates::cv
+geometry: margin=1in
+
+title: "CV"
+author: A. Zeynep Enkavi
+
+jobtitle: "Postdoctoral Scholar, Rangel Neuroeconomics Lab"
+address: "Caltech · 1200 E. California Blvd, MC 228-77, Pasadena, CA 91125"
+fontawesome: yes
+email: zenkavi@caltech.edu
+github: zenkavi
+twitter: zeynepenkavi
+osf: "a4hyq"
+# phone: "+1 215 760 9290"
+web: zenkavi.github.io/
+updated: TRUE
+rdateformat: "`r format(Sys.time(), '%d %b %Y')`"
+
+keywords: R Markdown, academic CV, template
+
+fontfamily: mathpazo
+fontfamilyoptions: sc, osf
+fontsize: 11pt
+linkcolor: blue
+urlcolor: blue
+---
+
+# Education
+
+*Stanford University* \hfill 2019  
+Ph.D. in Psychology (Neuroscience)  
+Adviser: Russell A. Poldrack  
+
+*University of Pennsylvania* \hfill 2012  
+B.A. in Cognitive Science and German Studies, minor in Science, Technology and Society  
+Adviser: Joseph W. Kable  
+
+# Employment
+
+*California Institute of Technology* \hfill 2019-Present  
+Rangel Neuroeconomics Lab
+Postdoctoral Scholar    
+Adviser: Antonio Rangel  
+
+*Columbia Business School* \hfill 2012-2014  
+Center for Decision Sciences
+Lab Manager  
+Advisers: Eric J. Johnson, Elke U. Weber  
+
+# Honors and Awards
+
+Penn World Scholars \hfill 2008-2012  
+University of Pennsylvania  
+
+Erich Friedmann Memorial Prize \hfill 2012  
+University of Pennsylvania  
+
+Daniel B Shumway Prize \hfill 2009  
+University of Pennsylvania  
+
+# Publications
+
+Kliemann, D., Armstrong, T., Galdi, P., Kahn, D., Rusch, T., **Enkavi, A. Z.**, Liang, D., Lograsso, S., Zhu, W., Yu, R., Nair, R., Paul, L., Tyszka, J. M., Adolphs, R. (2022) Caltech Conte Center - A multimodal data resource for exploring social cognition and decision-making. Accepted at Scientific Data.
+
+**Enkavi, A. Z.**, Poldrack, R. A. (2020) Implications of the lacking relationship between cognitive task and self report measures for psychiatry. Biological Psychiatry: Cognitive Neuroscience and Neuroimaging, DOI: 10.1016/j.bpsc.2020.06.010
+
+Mazza, G. L., Smyth, H. L., Bissett, P. G, Canning, J. R., Eisenberg, I. W., **Enkavi, A. Z.**, Gonzalez, O., Kim, S. J., Metcalf, S. A., Muniz, F., Pelham III, W. E., Scherer E. A., Valente, M. J., Xie, H., Poldrack, R. A., Marsch, L. A., MacKinnon, D. P. (2020). Correlation Database of 60 Cross-Disciplinary Surveys and Cognitive Tasks Assessing Self-Regulation. Journal of Personality Assessment, DOI: 10.1080/00223891.2020.1732994.
+
+**Enkavi, A. Z.**, Eisenberg, I. W., Bissett, P. G., Mazza, G. L., MacKinnon, D. P., Marsch, L. A., & Poldrack, R. A. (2019). Reply to Friedman and Banich: Right measures for the research question. Proceedings of the National Academy of Sciences, 116(49), 24398-24399.
+
+Eisenberg, I. W., Bissett, P. G., **Enkavi, A. Z.**, Li, J., MacKinnon, D. P., Marsch, L. A., & Poldrack, R. A. (2019). Uncovering the structure of self-regulation through data-driven ontology discovery. Nature communications, 10(1), 2319.
+
+**Enkavi, A. Z.**, Eisenberg, I. W., Bissett, P. G., Mazza, G. L., MacKinnon, D. P., Marsch, L. A., & Poldrack, R. A. (2019). Large-scale analysis of test–retest reliabilities of self-regulation measures. Proceedings of the National Academy of Sciences, 116(12), 5472-5477.
+
+Eisenberg, I. W., Bissett, P. G., Canning, J. R., Dallery, J., **Enkavi, A. Z.**, Whitfield-Gabrieli, S., ... & Kim, S. J. (2018). Applying novel technologies and methods to inform the ontology of self-regulation. Behaviour research and therapy, 101, 46-57.
+
+**Enkavi, A. Z.**, Weber, B., Zweyer, I., Wagner, J., Elger, C. E., Weber, E. U., & Johnson, E. J. (2017). Evidence for hippocampal dependence of value-based decisions. Scientific reports, 7(1), 17738.
+
+Sochat, V. V., Eisenberg, I. W., **Enkavi, A. Z.**, Li, J., Bissett, P. G., & Poldrack, R. A. (2016). The experiment factory: standardizing behavioral experiments. Frontiers in psychology, 7, 610.
+
+Li, Y., Gao, J., **Enkavi, A. Z.**, Zaval, L., Weber, E. U., & Johnson, E. J. (2015). Sound credit scores and financial decisions despite cognitive aging. Proceedings of the National Academy of Sciences, 112(1), 65-69.
+
+# Teaching and Mentorship
+
+Brain and Decision Making, TA \hfill 2018  
+Introduction to Statistical Methods, \hfill 2018  
+Psych One Teaching Fellow, \hfill 2015-2017
+Introduction to Learning and Memory, TA \hfill 2016  
+Introduction to Cognitive Neuroscience, TA \hfill 2016   
+
+*Research advising*
+
+Vinh Ton, Stanford University \hfill 2016-18  
+Dimitrios Konstantellos, MIT \hfill 2017  
+Brian Wu, University of California, Berkeley \hfill 2016  
+Andrea Bell, Columbia University \hfill 2014  
+Joachim Talloen, Rutgers University \hfill 2014  
+Tae Ho Kim, University of Chicago \hfill 2013  
+
+# Ad hoc Reviewer
+
+Cerebral Cortex, Biological Psychiatry, Trends in Cognitive Sciences, Nature Human Behaviour, Journal of Neuroscience, Psychology and Economics, Neuropsychopharmacology, NeuroImage
+
+# Professional memberships
+
+Society of Judgment and Decision Making, Society of Neuroeconomics, Organization of Human Brain Mapping
+
+# References
+
+Antonio Rangel , PhD
+California Institute of Technology
+
+Russell A. Poldrack , PhD
+Stanford University
+
+Eric J. Johnson, PhD
+Columbia Business School
+
+Elke U. Weber, PhD
+Princeton University
+
+Joseph W. Kable, PhD
+University of Pennsylvania
