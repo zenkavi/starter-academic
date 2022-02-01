@@ -11,7 +11,8 @@ fontawesome: yes
 email: zenkavi@caltech.edu
 github: zenkavi
 twitter: zeynepenkavi
-osf: "a4hyq"
+# osf: "a4hyq"
+orcid: "0000-0001-7040-3620"
 # phone: "+1 215 760 9290"
 web: zenkavi.github.io/
 updated: TRUE
@@ -33,7 +34,7 @@ Ph.D. in Psychology (Neuroscience)
 Adviser: Russell A. Poldrack  
 
 *University of Pennsylvania* \hfill 2012  
-B.A. in Cognitive Science and German Studies, minor in Science, Technology and Society  
+B.A. in Cognitive Science, German Studies and Science, Technology and Society  
 Adviser: Joseph W. Kable  
 
 # Employment
@@ -43,14 +44,14 @@ Rangel Neuroeconomics Lab
 Postdoctoral Scholar    
 Adviser: Antonio Rangel  
 
-*Columbia Business School* \hfill 2012-2014  
+*Columbia Business School* \hfill 2012-14  
 Center for Decision Sciences
 Lab Manager  
 Advisers: Eric J. Johnson, Elke U. Weber  
 
 # Honors and Awards
 
-Penn World Scholars \hfill 2008-2012  
+Penn World Scholars \hfill 2008-12  
 University of Pennsylvania  
 
 Erich Friedmann Memorial Prize \hfill 2012  
@@ -61,31 +62,86 @@ University of Pennsylvania
 
 # Publications
 
-Kliemann, D., Armstrong, T., Galdi, P., Kahn, D., Rusch, T., **Enkavi, A. Z.**, Liang, D., Lograsso, S., Zhu, W., Yu, R., Nair, R., Paul, L., Tyszka, J. M., Adolphs, R. (2022) Caltech Conte Center - A multimodal data resource for exploring social cognition and decision-making. Accepted at Scientific Data.
+## In preparation
 
-**Enkavi, A. Z.**, Poldrack, R. A. (2020) Implications of the lacking relationship between cognitive task and self report measures for psychiatry. Biological Psychiatry: Cognitive Neuroscience and Neuroimaging, DOI: 10.1016/j.bpsc.2020.06.010
+**Enkavi, A. Z.**, Tavares, G., Rangel, A. Choosing between bundles of uncertain outcomes from different choice modalities.
 
-Mazza, G. L., Smyth, H. L., Bissett, P. G, Canning, J. R., Eisenberg, I. W., **Enkavi, A. Z.**, Gonzalez, O., Kim, S. J., Metcalf, S. A., Muniz, F., Pelham III, W. E., Scherer E. A., Valente, M. J., Xie, H., Poldrack, R. A., Marsch, L. A., MacKinnon, D. P. (2020). Correlation Database of 60 Cross-Disciplinary Surveys and Cognitive Tasks Assessing Self-Regulation. Journal of Personality Assessment, DOI: 10.1080/00223891.2020.1732994.
+**Enkavi, A. Z.**, Helfinstein, S., Poldrack, R. A. Multiple models can explain the development of risky behavior during adolescence equally well.
 
-**Enkavi, A. Z.**, Eisenberg, I. W., Bissett, P. G., Mazza, G. L., MacKinnon, D. P., Marsch, L. A., & Poldrack, R. A. (2019). Reply to Friedman and Banich: Right measures for the research question. Proceedings of the National Academy of Sciences, 116(49), 24398-24399.
+## Peer-reviewed
 
-Eisenberg, I. W., Bissett, P. G., **Enkavi, A. Z.**, Li, J., MacKinnon, D. P., Marsch, L. A., & Poldrack, R. A. (2019). Uncovering the structure of self-regulation through data-driven ontology discovery. Nature communications, 10(1), 2319.
+**2022**
 
-**Enkavi, A. Z.**, Eisenberg, I. W., Bissett, P. G., Mazza, G. L., MacKinnon, D. P., Marsch, L. A., & Poldrack, R. A. (2019). Large-scale analysis of test–retest reliabilities of self-regulation measures. Proceedings of the National Academy of Sciences, 116(12), 5472-5477.
+Kliemann, D., Armstrong, T., Galdi, P., Kahn, D., Rusch, T., **Enkavi, A. Z.**, Liang, D., Lograsso, S., Zhu, W., Yu, R., Nair, R., Paul, L., Tyszka, J. M., Adolphs, R. (2022) Caltech Conte Center - A multimodal data resource for exploring social cognition and decision-making. Accepted at *Scientific Data*.
 
-Eisenberg, I. W., Bissett, P. G., Canning, J. R., Dallery, J., **Enkavi, A. Z.**, Whitfield-Gabrieli, S., ... & Kim, S. J. (2018). Applying novel technologies and methods to inform the ontology of self-regulation. Behaviour research and therapy, 101, 46-57.
+**2020**
 
-**Enkavi, A. Z.**, Weber, B., Zweyer, I., Wagner, J., Elger, C. E., Weber, E. U., & Johnson, E. J. (2017). Evidence for hippocampal dependence of value-based decisions. Scientific reports, 7(1), 17738.
+**Enkavi, A. Z.**, Poldrack, R. A. (2020) Implications of the lacking relationship between cognitive task and self report measures for psychiatry. *Biological Psychiatry: Cognitive Neuroscience and Neuroimaging*, DOI: 10.1016/j.bpsc.2020.06.010
 
-Sochat, V. V., Eisenberg, I. W., **Enkavi, A. Z.**, Li, J., Bissett, P. G., & Poldrack, R. A. (2016). The experiment factory: standardizing behavioral experiments. Frontiers in psychology, 7, 610.
+Mazza, G. L., Smyth, H. L., Bissett, P. G, Canning, J. R., Eisenberg, I. W., **Enkavi, A. Z.**, Gonzalez, O., Kim, S. J., Metcalf, S. A., Muniz, F., Pelham III, W. E., Scherer E. A., Valente, M. J., Xie, H., Poldrack, R. A., Marsch, L. A., MacKinnon, D. P. (2020). Correlation Database of 60 Cross-Disciplinary Surveys and Cognitive Tasks Assessing Self-Regulation. *Journal of Personality Assessment*, DOI: 10.1080/00223891.2020.1732994.
 
-Li, Y., Gao, J., **Enkavi, A. Z.**, Zaval, L., Weber, E. U., & Johnson, E. J. (2015). Sound credit scores and financial decisions despite cognitive aging. Proceedings of the National Academy of Sciences, 112(1), 65-69.
+**2019**
+
+**Enkavi, A. Z.**, Eisenberg, I. W., Bissett, P. G., Mazza, G. L., MacKinnon, D. P., Marsch, L. A., & Poldrack, R. A. (2019). Reply to Friedman and Banich: Right measures for the research question. *Proceedings of the National Academy of Sciences*, 116(49), 24398-24399.
+
+Eisenberg, I. W., Bissett, P. G., **Enkavi, A. Z.**, Li, J., MacKinnon, D. P., Marsch, L. A., & Poldrack, R. A. (2019). Uncovering the structure of self-regulation through data-driven ontology discovery. *Nature communications*, 10(1), 2319.
+
+**Enkavi, A. Z.**, Eisenberg, I. W., Bissett, P. G., Mazza, G. L., MacKinnon, D. P., Marsch, L. A., & Poldrack, R. A. (2019). Large-scale analysis of test–retest reliabilities of self-regulation measures. *Proceedings of the National Academy of Sciences*, 116(12), 5472-5477.
+
+**Pre - 2019**
+
+Eisenberg, I. W., Bissett, P. G., Canning, J. R., Dallery, J., **Enkavi, A. Z.**, Whitfield-Gabrieli, S., ... & Kim, S. J. (2018). Applying novel technologies and methods to inform the ontology of self-regulation. *Behaviour research and therapy*, 101, 46-57.
+
+**Enkavi, A. Z.**, Weber, B., Zweyer, I., Wagner, J., Elger, C. E., Weber, E. U., & Johnson, E. J. (2017). Evidence for hippocampal dependence of value-based decisions. *Scientific reports*, 7(1), 17738.
+
+Sochat, V. V., Eisenberg, I. W., **Enkavi, A. Z.**, Li, J., Bissett, P. G., & Poldrack, R. A. (2016). The experiment factory: standardizing behavioral experiments. *Frontiers in psychology*, 7, 610.
+
+Li, Y., Gao, J., **Enkavi, A. Z.**, Zaval, L., Weber, E. U., & Johnson, E. J. (2015). Sound credit scores and financial decisions despite cognitive aging. *Proceedings of the National Academy of Sciences*, 112(1), 65-69.
+
+# Invited Talks
+
+*2021*: Cognitive Sciences Colloquium, UC Irvine   
+*2018*: Cognitive and Neuroscience Seminar Series, Stanford  
+*2015*: Cognitive and Neuroscience Seminar Series, Stanford  
+
+# Conference presentations
+
+## Talks
+
+Enkavi, A. Z. (2015),  “Preference consistency relies on hippocampal function: Evidence from mediotemporal lobe epilepsy”, Interdisciplinary Symposium on Decision Neuroscience, MIT 
+
+## Posters
+
+Enkavi, A. Z., Eisenberg, I. W., Bissett, P. G., Mazza, G. L, MacKinnon, D. P., Marsch, L. A., Poldrack, R. A., “A large scale analysis of cognitive task measures of self-regulation” 2018. Society for Neuroeconomics Annual Meeting, Philadelphia, Pennsylvania.
+
+Enkavi, A. Z., Eisenberg, I. W., Bissett, P. G., Mazza, G. L, MacKinnon, D. P., Marsch, L. A., Poldrack, R. A., “A large scale analysis of test-retest reliabilities of self-regulation measures” 2017. Society of Judgment and Decision Making Annual Meeting, Vancouver, Canada.
+
+Enkavi, A. Z., Eisenberg, I. W., Bissett, P. G., Mazza, G. L, MacKinnon, D. P., Marsch, L. A., Poldrack, R. A., “A large scale analysis of test-retest reliabilities of self-regulation measures” 2017. Society for Neuroeconomics Annual Meeting, Toronto, Canada.
+
+Enkavi, A. Z., McClure, S. M, “Beyond Delay Discounting: Intertemporal Choice Between Non-Unitary Rewards” 2015. Society of Judgment and Decision Making Annual Meeting, Chicago, Illinois.
+
+Enkavi, A. Z., McClure, S. M, “Beyond Delay Discounting: Intertemporal Choice Between Non-Unitary Rewards” 2015 Society for Neuroeconomics Annual Meeting, Miami, Florida.
+
+Enkavi, A. Z., Gao, J., Li, Y., Johnson E. J., Weber, E. U. What Measures of Risk Attitude Predict Real World Risk Taking? 2014. Society of Judgment and Decision Making Annual Meeting, Long Beach, California.
+
+Enkavi, A. Z., Weber, B., Zweyer, I., Wagner, J., Elger, C. E., Weber, E. U., Johnson, E. J.  Preference consistency relies on hippocampal function: Evidence from mediotemporal lobe epilepsy. 2014. Society of Judgment and Decision Making Annual Meeting, Long Beach, California.
+
+Kazinka, R., Enkavi, A. Z., Vo, K., Kable, J. W. Individual differences in the Asymmetric Dominance Effect. 2014. Society for Neuroeconomics Annual Meeting, Miami, Florida.
+
+Enkavi, A. Z., Gao, J., Li, Y., Zaval, L., Johnson E. J., Weber, E. U. Neurons die, not knowledge: Domain knowledge compensates for declining cognitive ability in financial decision-making. 2013. Society of Judgment and Decision Making Annual Meeting, Toronto, Canada.
+
+# Training Courses Attended
+
+Neuromatch Academy\hfill 2020  
+OHBM Educational Course: Fundamental Concepts and Methods in Network Neuroscience \hfill 2020  
+OHBM Brainhack hackathon \hfill 2018  
+SRNDNA computational modeling workshop for Decision Neuroscience and Aging \hfill 2015
 
 # Teaching and Mentorship
 
 Brain and Decision Making, TA \hfill 2018  
-Introduction to Statistical Methods, \hfill 2018  
-Psych One Teaching Fellow, \hfill 2015-2017
+Introduction to Statistical Methods, Coding assistance \hfill 2018  
+Psych One Teaching Fellow \hfill 2015-17  
 Introduction to Learning and Memory, TA \hfill 2016  
 Introduction to Cognitive Neuroscience, TA \hfill 2016   
 
@@ -98,11 +154,17 @@ Andrea Bell, Columbia University \hfill 2014
 Joachim Talloen, Rutgers University \hfill 2014  
 Tae Ho Kim, University of Chicago \hfill 2013  
 
+# Service
+
+Caltech Postdoc Association Division co-representative, Caltech \hfill 2022    
+Graduate student cohort co-representative, Stanford University \hfill 2014-19   
+Graduate student interview weekend co-organizer, Stanford University \hfill 2016  
+
 # Ad hoc Reviewer
 
 Cerebral Cortex, Biological Psychiatry, Trends in Cognitive Sciences, Nature Human Behaviour, Journal of Neuroscience, Psychology and Economics, Neuropsychopharmacology, NeuroImage
 
-# Professional memberships
+# Professional Societies
 
 Society of Judgment and Decision Making, Society of Neuroeconomics, Organization of Human Brain Mapping
 

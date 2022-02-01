@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2022/dev) (preloaded format=pdflatex 2022.2.1)  1 FEB 2022 12:14
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2022/dev) (preloaded format=pdflatex 2022.2.1)  1 FEB 2022 13:30
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1005,38 +1005,44 @@ nput line 129.
 (/Users/zeynepenkavi/Library/TinyTeX/texmf-dist/tex/latex/fontawesome/ufontawes
 omethree.fd
 File: ufontawesomethree.fd 2016/05/22 Font definitions for U/fontawesomethree.
-) [1
+)
+Package microtype Info: Character `029' is missing
+(microtype)             in font `T1/pplj/m/sc/10.95'.
+(microtype)             Ignoring protrusion settings for this character.
+[1
 
 {/Users/zeynepenkavi/Library/TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex.m
-ap}] [2] 
+ap}] [2] [3] 
 AED: lastpage setting LastPage
-[3] (./CV.aux)
+[4] (./CV.aux)
 Package rerunfilecheck Info: File `CV.out' has not changed.
-(rerunfilecheck)             Checksum: DBBE41A2F5007B84770AC46FB3AA5EF9;973.
+(rerunfilecheck)             Checksum: 9F72ABF3DF568603A85EA5289ADEA755;1936.
  ) 
 Here is how much of TeX's memory you used:
- 26573 strings out of 480247
- 490099 string characters out of 5894720
- 783698 words of memory out of 5000000
- 43805 multiletter control sequences out of 15000+600000
- 510937 words of font info for 208 fonts, out of 8000000 for 9000
+ 26669 strings out of 480247
+ 491966 string characters out of 5894720
+ 784015 words of memory out of 5000000
+ 43871 multiletter control sequences out of 15000+600000
+ 514956 words of font info for 217 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 115i,12n,118p,1191b,490s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 115i,12n,118p,1191b,694s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/Users/zeynepenkavi/Library/TinyTeX/texmf-dist/fonts/enc/dvips/base/8r.enc}{
 /Users/zeynepenkavi/Library/TinyTeX/texmf-dist/fonts/enc/dvips/fontawesome/font
 awesomethree.enc} </Users/zeynepenkavi/Library/TinyTeX/texmf-var/fonts/pk/ljfou
 r/jknappen/ec/ectt1095.600pk>{/Users/zeynepenkavi/Library/TinyTeX/texmf-dist/fo
 nts/enc/dvips/fontawesome/fontawesometwo.enc}</Users/zeynepenkavi/Library/TinyT
 eX/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb></Users/zeynepenka
-vi/Library/TinyTeX/texmf-dist/fonts/type1/public/fpl/fplrc8a.pfb></Users/zeynep
-enkavi/Library/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></Users/z
-eynepenkavi/Library/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></Us
-ers/zeynepenkavi/Library/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplri8a.pf
-b>
-Output written on CV.pdf (3 pages, 93855 bytes).
+vi/Library/TinyTeX/texmf-dist/fonts/type1/public/fpl/fplbj8a.pfb></Users/zeynep
+enkavi/Library/TinyTeX/texmf-dist/fonts/type1/public/fpl/fplrc8a.pfb></Users/ze
+ynepenkavi/Library/TinyTeX/texmf-dist/fonts/type1/public/fpl/fplrij8a.pfb></Use
+rs/zeynepenkavi/Library/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb>
+</Users/zeynepenkavi/Library/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplr8a
+.pfb></Users/zeynepenkavi/Library/TinyTeX/texmf-dist/fonts/type1/urw/palatino/u
+plri8a.pfb>
+Output written on CV.pdf (4 pages, 135682 bytes).
 PDF statistics:
- 138 PDF objects out of 1000 (max. 8388607)
- 96 compressed objects within 1 object stream
- 20 named destinations out of 1000 (max. 500000)
- 59469 words of extra memory for PDF output out of 61914 (max. 10000000)
+ 204 PDF objects out of 1000 (max. 8388607)
+ 152 compressed objects within 2 object streams
+ 37 named destinations out of 1000 (max. 500000)
+ 63629 words of extra memory for PDF output out of 74296 (max. 10000000)
 
