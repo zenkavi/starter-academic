@@ -4,11 +4,11 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 # Appearance
-
-theme: forest
-day_night: false
-font: ''
-font_size: S
+appearance:
+  theme_day: forest
+  day_night: false
+  font: ''
+font_size: s
 
 # SEO
 
@@ -138,3 +138,6 @@ cms:
 icon:
   pack:
     ai: true
+extensions:
+  academicons:
+    enable: true
