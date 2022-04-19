@@ -64,39 +64,39 @@ University of Pennsylvania
 
 ## In preparation
 
-**Enkavi, A. Z.**, Tavares, G., Rangel, A. Choosing between bundles of uncertain outcomes from different choice modalities.
+**Enkavi, A. Z.**, Tavares, G., Rangel, A. Choosing between bundles of described and experienced risks.
 
-**Enkavi, A. Z.**, Helfinstein, S., Poldrack, R. A. Multiple models can explain the development of risky behavior during adolescence equally well.
+**Enkavi, A. Z.**, Helfinstein, S., Poldrack, R. A. Statistically the same but cognitively different models of risky behavior during adolescence.
 
 ## Peer-reviewed
 
 **2022**
 
-Kliemann, D., Armstrong, T., Galdi, P., Kahn, D., Rusch, T., **Enkavi, A. Z.**, Liang, D., Lograsso, S., Zhu, W., Yu, R., Nair, R., Paul, L., Tyszka, J. M., Adolphs, R. (2022) Caltech Conte Center - A multimodal data resource for exploring social cognition and decision-making. Accepted at *Scientific Data*.
+Kliemann, D., Armstrong, T., Galdi, P., Kahn, D., Rusch, T., **Enkavi, A. Z.**, Liang, D., Lograsso, S., Zhu, W., Yu, R., Nair, R., Paul, L., Tyszka, J. M., Adolphs, R. (2022) Caltech Conte Center - A multimodal data resource for exploring social cognition and decision-making. *Scientific Data*, 9 (1), 1-15.
 
 **2020**
 
-**Enkavi, A. Z.**, Poldrack, R. A. (2020) Implications of the lacking relationship between cognitive task and self report measures for psychiatry. *Biological Psychiatry: Cognitive Neuroscience and Neuroimaging*, DOI: 10.1016/j.bpsc.2020.06.010
+**Enkavi, A. Z.**, Poldrack, R. A. (2020) Implications of the lacking relationship between cognitive task and self report measures for psychiatry. *Biological Psychiatry: Cognitive Neuroscience and Neuroimaging*, 6 (7), 670-672.
 
-Mazza, G. L., Smyth, H. L., Bissett, P. G, Canning, J. R., Eisenberg, I. W., **Enkavi, A. Z.**, Gonzalez, O., Kim, S. J., Metcalf, S. A., Muniz, F., Pelham III, W. E., Scherer E. A., Valente, M. J., Xie, H., Poldrack, R. A., Marsch, L. A., MacKinnon, D. P. (2020). Correlation Database of 60 Cross-Disciplinary Surveys and Cognitive Tasks Assessing Self-Regulation. *Journal of Personality Assessment*, DOI: 10.1080/00223891.2020.1732994.
+Mazza, G. L., Smyth, H. L., Bissett, P. G, Canning, J. R., Eisenberg, I. W., **Enkavi, A. Z.**, Gonzalez, O., Kim, S. J., Metcalf, S. A., Muniz, F., Pelham III, W. E., Scherer E. A., Valente, M. J., Xie, H., Poldrack, R. A., Marsch, L. A., MacKinnon, D. P. (2020). Correlation Database of 60 Cross-Disciplinary Surveys and Cognitive Tasks Assessing Self-Regulation. *Journal of Personality Assessment*, 103 (2), 238-245.
 
 **2019**
 
-**Enkavi, A. Z.**, Eisenberg, I. W., Bissett, P. G., Mazza, G. L., MacKinnon, D. P., Marsch, L. A., & Poldrack, R. A. (2019). Reply to Friedman and Banich: Right measures for the research question. *Proceedings of the National Academy of Sciences*, 116(49), 24398-24399.
+**Enkavi, A. Z.**, Eisenberg, I. W., Bissett, P. G., Mazza, G. L., MacKinnon, D. P., Marsch, L. A., & Poldrack, R. A. (2019). Reply to Friedman and Banich: Right measures for the research question. *Proceedings of the National Academy of Sciences*, 116 (49), 24398-24399.
 
-Eisenberg, I. W., Bissett, P. G., **Enkavi, A. Z.**, Li, J., MacKinnon, D. P., Marsch, L. A., & Poldrack, R. A. (2019). Uncovering the structure of self-regulation through data-driven ontology discovery. *Nature communications*, 10(1), 2319.
+Eisenberg, I. W., Bissett, P. G., **Enkavi, A. Z.**, Li, J., MacKinnon, D. P., Marsch, L. A., & Poldrack, R. A. (2019). Uncovering the structure of self-regulation through data-driven ontology discovery. *Nature communications*, 10 (1), 2319.
 
-**Enkavi, A. Z.**, Eisenberg, I. W., Bissett, P. G., Mazza, G. L., MacKinnon, D. P., Marsch, L. A., & Poldrack, R. A. (2019). Large-scale analysis of test–retest reliabilities of self-regulation measures. *Proceedings of the National Academy of Sciences*, 116(12), 5472-5477.
+**Enkavi, A. Z.**, Eisenberg, I. W., Bissett, P. G., Mazza, G. L., MacKinnon, D. P., Marsch, L. A., & Poldrack, R. A. (2019). Large-scale analysis of test–retest reliabilities of self-regulation measures. *Proceedings of the National Academy of Sciences*, 116 (12), 5472-5477.
 
 **Pre - 2019**
 
 Eisenberg, I. W., Bissett, P. G., Canning, J. R., Dallery, J., **Enkavi, A. Z.**, Whitfield-Gabrieli, S., ... & Kim, S. J. (2018). Applying novel technologies and methods to inform the ontology of self-regulation. *Behaviour research and therapy*, 101, 46-57.
 
-**Enkavi, A. Z.**, Weber, B., Zweyer, I., Wagner, J., Elger, C. E., Weber, E. U., & Johnson, E. J. (2017). Evidence for hippocampal dependence of value-based decisions. *Scientific reports*, 7(1), 17738.
+**Enkavi, A. Z.**, Weber, B., Zweyer, I., Wagner, J., Elger, C. E., Weber, E. U., & Johnson, E. J. (2017). Evidence for hippocampal dependence of value-based decisions. *Scientific reports*, 7 (1), 17738.
 
 Sochat, V. V., Eisenberg, I. W., **Enkavi, A. Z.**, Li, J., Bissett, P. G., & Poldrack, R. A. (2016). The experiment factory: standardizing behavioral experiments. *Frontiers in psychology*, 7, 610.
 
-Li, Y., Gao, J., **Enkavi, A. Z.**, Zaval, L., Weber, E. U., & Johnson, E. J. (2015). Sound credit scores and financial decisions despite cognitive aging. *Proceedings of the National Academy of Sciences*, 112(1), 65-69.
+Li, Y., Gao, J., **Enkavi, A. Z.**, Zaval, L., Weber, E. U., & Johnson, E. J. (2015). Sound credit scores and financial decisions despite cognitive aging. *Proceedings of the National Academy of Sciences*, 112 (1), 65-69.
 
 # Invited Talks
 
@@ -111,6 +111,8 @@ Li, Y., Gao, J., **Enkavi, A. Z.**, Zaval, L., Weber, E. U., & Johnson, E. J. (2
 Enkavi, A. Z. (2015),  “Preference consistency relies on hippocampal function: Evidence from mediotemporal lobe epilepsy”, Interdisciplinary Symposium on Decision Neuroscience, MIT 
 
 ## Posters
+
+Enkavi, A. Z., Tavares, G., Rangel, A.  “Choosing between bundles of described and experienced risks” 2022. The Neurobiology of Reward And Decision-Making (II), Lake Arrowhead, California.
 
 Enkavi, A. Z., Eisenberg, I. W., Bissett, P. G., Mazza, G. L, MacKinnon, D. P., Marsch, L. A., Poldrack, R. A., “A large scale analysis of cognitive task measures of self-regulation” 2018. Society for Neuroeconomics Annual Meeting, Philadelphia, Pennsylvania.
 
@@ -170,17 +172,17 @@ Society of Judgment and Decision Making, Society of Neuroeconomics, Organization
 
 # References
 
-Antonio Rangel , PhD
+Antonio Rangel, PhD  
 California Institute of Technology
 
-Russell A. Poldrack , PhD
+Russell A. Poldrack, PhD  
 Stanford University
 
-Eric J. Johnson, PhD
+Eric J. Johnson, PhD  
 Columbia Business School
 
-Elke U. Weber, PhD
+Elke U. Weber, PhD  
 Princeton University
 
-Joseph W. Kable, PhD
+Joseph W. Kable, PhD  
 University of Pennsylvania

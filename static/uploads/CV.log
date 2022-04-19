@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2022/dev) (preloaded format=pdflatex 2022.2.1)  1 FEB 2022 13:30
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2022/dev) (preloaded format=pdflatex 2022.2.1)  19 APR 2022 14:04
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1019,11 +1019,11 @@ Package rerunfilecheck Info: File `CV.out' has not changed.
 (rerunfilecheck)             Checksum: 9F72ABF3DF568603A85EA5289ADEA755;1936.
  ) 
 Here is how much of TeX's memory you used:
- 26669 strings out of 480247
- 491966 string characters out of 5894720
- 784015 words of memory out of 5000000
+ 26697 strings out of 480247
+ 492211 string characters out of 5894720
+ 783015 words of memory out of 5000000
  43871 multiletter control sequences out of 15000+600000
- 514956 words of font info for 217 fonts, out of 8000000 for 9000
+ 516566 words of font info for 240 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  115i,12n,118p,1191b,694s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/Users/zeynepenkavi/Library/TinyTeX/texmf-dist/fonts/enc/dvips/base/8r.enc}{
@@ -1039,7 +1039,7 @@ rs/zeynepenkavi/Library/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb>
 </Users/zeynepenkavi/Library/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplr8a
 .pfb></Users/zeynepenkavi/Library/TinyTeX/texmf-dist/fonts/type1/urw/palatino/u
 plri8a.pfb>
-Output written on CV.pdf (4 pages, 135682 bytes).
+Output written on CV.pdf (4 pages, 135700 bytes).
 PDF statistics:
  204 PDF objects out of 1000 (max. 8388607)
  152 compressed objects within 2 object streams
