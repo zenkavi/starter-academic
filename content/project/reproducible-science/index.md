@@ -1,6 +1,6 @@
 ---
 title: Reproducible science
-summary: Experiment Factory is an “an open source framework for the development and deployment of web-based experiments.” We developed this platform to run our large scale multiwave online experiments. It consists of a Python application and a repository of behavioral experiments and surveys coded in javascript using jsPsych (de Leeuw, 2015). As we hoped for it has been used by other researchers for their experiments as well.
+summary: How can we make cognitive neuroscience more reproducible?
 
 tags:
 - Reproducible science
@@ -17,10 +17,10 @@ image:
   focal_point: Smart
 
 links:
-- icon:
-  icon_pack:
-  name: Learn More
-  url: "project/reproducible-science"
+# - icon:
+#  icon_pack:
+#  name: Learn More
+#  url: "project/reproducible-science"
 url_code: ""
 url_pdf: ""
 url_slides: ""
@@ -35,10 +35,10 @@ url_learmore: ""
 slides: ""
 ---
 
-**Experiment Factory**
+**Experiment Factory**  
 Experiment Factory is an “an open source framework for the development and deployment of web-based experiments.” We developed this platform to run our large scale multiwave online experiments. It consists of a Python application and a repository of behavioral experiments and surveys coded in javascript using jsPsych (de Leeuw, 2015). As we hoped for it has been used by other researchers for their experiments as well.
 
-**Reproducible meta-analysis**
+**Reproducible meta-analysis**  
 This is a prospective project in a very early stage that I want to continue working on in the near future. The broad aim is to build tools that would enable researchers to conduct fast and reproducible meta-analyses. Some components I am currently considering include:
 
 - Standardized data format for meta-analysis search results
@@ -50,4 +50,10 @@ This is a prospective project in a very early stage that I want to continue work
 
 **References:**
 
-Sochat, V. V., Eisenberg, I. W., Enkavi, A. Z., Li, J., Bissett, P. G., & Poldrack, R. A. (2016). The experiment factory standardizing behavioral experiments. Frontiers in psychology, 7, 610.
+Kliemann, D., Adolphs, R., Armstrong, T., Galdi, P., Kahn, D.A., Rusch, T., Enkavi, A.Z., Liang, D., Lograsso, S., Zhu, W. and Yu, R., (2022). Caltech Conte Center, a multimodal data resource for exploring social cognition and decision-making. Scientific Data, 9(1), 138.
+
+Enkavi, A. Z., Poldrack, R. A. (2020). Implications of the lacking relationship between cognitive task and self report measures for psychiatry. Biological Psychiatry: Cognitive Neuroscience and Neuroimaging, 6 (7), 670-672.  
+
+Mazza, G. L., Smyth, H. L., Bissett, P. G, Canning, J. R., Eisenberg, I. W., Enkavi, A. Z., Gonzalez, O., Kim, S. J., Metcalf, S. A., Muniz, F., Pelham III, W. E., Scherer E. A., Valente, M. J., Xie, H., Poldrack, R. A., Marsch, L. A., MacKinnon, D. P. (2020). Correlation Database of 60 Cross-Disciplinary Surveys and Cognitive Tasks Assessing Self-Regulation. Journal of Personality Assessment, 103 (2), 238-245.  
+
+Sochat, V. V., Eisenberg, I. W., Enkavi, A. Z., Li, J., Bissett, P. G., & Poldrack, R. A. (2016). The experiment factory standardizing behavioral experiments. Frontiers in psychology, 7, 610.  

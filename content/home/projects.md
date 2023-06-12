@@ -7,13 +7,13 @@ widget: portfolio
 headless: true
 
 # Activate this widget? true/false
-active: true
+active: false
 
 # Order that this section appears on the page.
 weight: 65
 
-title: Projects
-subtitle: ''
+title: Research
+subtitle: 'Click project title to view more'
 
 content:
   # Page type to display. E.g. project.

@@ -18,19 +18,20 @@ organizations:
   url: "https://www.hss.caltech.edu/people/ayse-z-enkavi"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include network neuroscience, self-control and reproducibility.
+# bio: My research interests include decision-making, network neuroscience, and reproducibility.
+bio: ""
 
 interests:
+- Decision-making
 - Network neuroscience
-- Self-control
 - Reproducible science
 
 education:
   courses:
-  - course: PhD in Psychology
+  - course: Ph.D. in Psychology
     institution: Stanford University
     year: 2019
-  - course: BA in Cognitive Science
+  - course: B.A. in Cognitive Science
     institution: University of Pennsylvania
     year: 2012
 
@@ -63,9 +64,9 @@ email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Researchers
-- Visitors
+user_groups: []
+# - Researchers
+#- Visitors
 ---
 
-I am a postdoctoral scholar at Caltech working with [Antonio Rangel](http://www.hss.caltech.edu/people/antonio-rangel). I received my PhD from Stanford where I worked with [Russell Poldrack](https://profiles.stanford.edu/russell-poldrack). I study the neural correlates of decision-making, particularly decisions that involve self-control. My work has a strong emphasis on methodological rigor and reproducibility. To this end I investigate the psychometric properties of measures in the field and build statistical models for neuroimaging data that account for the brain's network structure.
+I am a postdoctoral scholar at Caltech working with [Antonio Rangel](http://www.hss.caltech.edu/people/antonio-rangel). I received my PhD from Stanford where I worked with [Russell Poldrack](https://profiles.stanford.edu/russell-poldrack). I study neural correlates of decision-making, particularly decisions that involve self-control. My work has a strong emphasis on methodological rigor and reproducibility. To this end I investigate the psychometric properties of measures in the field and build statistical models for neuroimaging data that account for the brain's network structure.
