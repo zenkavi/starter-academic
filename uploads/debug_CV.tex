@@ -1,0 +1,404 @@
+% CV ----
+% This is just here so I know exactly what I'm looking at in Rstudio when messing with stuff.
+\documentclass[11pt,]{article}
+\usepackage[sc, osf]{mathpazo}
+\usepackage{amssymb,amsmath}
+\usepackage{ifxetex,ifluatex}
+\usepackage{fixltx2e} % provides \textsubscript
+\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+\else % if luatex or xelatex
+  \ifxetex
+    \usepackage{mathspec}
+  \else
+    \usepackage{fontspec}
+  \fi
+  \defaultfontfeatures{Ligatures=TeX,Scale=MatchLowercase}
+\fi
+% use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+% use microtype if available
+\IfFileExists{microtype.sty}{%
+\usepackage{microtype}
+\UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\usepackage[margin=1in]{geometry}
+
+
+
+
+\setlength{\emergencystretch}{3em}  % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{0}
+% Redefines (sub)paragraphs to behave more like sections
+\ifx\paragraph\undefined\else
+\let\oldparagraph\paragraph
+\renewcommand{\paragraph}[1]{\oldparagraph{#1}\mbox{}}
+\fi
+\ifx\subparagraph\undefined\else
+\let\oldsubparagraph\subparagraph
+\renewcommand{\subparagraph}[1]{\oldsubparagraph{#1}\mbox{}}
+\fi
+
+% Now begins the stuff that I added.
+% ----------------------------------
+
+% Custom section fonts
+\usepackage{sectsty}
+\sectionfont{\rmfamily\mdseries\large\bf}
+\subsectionfont{\rmfamily\mdseries\normalsize\scshape}
+
+
+% Make lists without bullets
+\renewenvironment{itemize}{
+  \begin{list}{}{
+    \setlength{\leftmargin}{1.5em}
+  }
+}{
+  \end{list}
+}
+
+
+% Make parskips rather than indent with lists.
+\usepackage{parskip}
+% \usepackage{titlesec}
+% \titlespacing\section{0pt}{12pt plus 4pt minus 2pt}{12pt plus 2pt minus 2pt}
+% \titlespacing\subsection{0pt}{12pt plus 4pt minus 2pt}{12pt plus 2pt minus 2pt}
+
+% Use fontawesome. Note: you'll need TeXLive 2015. Update.
+\usepackage{fontawesome}
+
+% Fancyhdr, as I tend to do with these personal documents.
+\usepackage{fancyhdr,lastpage}
+\pagestyle{fancy}
+\renewcommand{\headrulewidth}{0.0pt}
+\renewcommand{\footrulewidth}{0.0pt}
+\lhead{}
+\chead{}
+\rhead{}
+\lfoot{}
+\cfoot{\scriptsize  A. Zeynep Enkavi - CV}
+\rfoot{\scriptsize \thepage/{\hypersetup{linkcolor=black}\pageref{LastPage}}}
+
+% Always load hyperref last.
+\usepackage{hyperref}
+\PassOptionsToPackage{usenames,dvipsnames}{color} % color is loaded by hyperref
+
+\hypersetup{unicode=true,
+            pdftitle={A. Zeynep Enkavi:  CV (Curriculum Vitae)},
+            pdfauthor={A. Zeynep Enkavi},
+            pdfkeywords={R Markdown, academic CV, template},
+            colorlinks=true,
+            linkcolor=blue,
+            citecolor=blue,
+            urlcolor=blue,
+            breaklinks=true, bookmarks=true}
+\urlstyle{same}  % don't use monospace font for urls
+
+% Make AP style (kinda) dates for the updated/today field
+
+\usepackage{datetime}
+\newdateformat{apstylekinda}{%
+  \shortmonthname[\THEMONTH]. \THEDAY, \THEYEAR}
+
+% \emph{Updated:} \apstylekinda\today
+% ^ removed from that front bar.
+
+\usepackage{orcidlink}
+%\usepackage{academicons}
+%\definecolor{orcidlogocol}{HTML}{A6CE39}
+% \newcommand{\orcid}[1]{\href{https://orcid.org/#1}{\textcolor[HTML]{A6CE39}{\aiOrcid}}}
+
+\begin{document}
+
+
+\centerline{\huge \bf A. Zeynep Enkavi}
+
+\vspace{2 mm}
+
+\hrule
+
+\vspace{2 mm}
+
+\moveleft.5\hoffset\centerline{Postdoctoral Scholar, Rangel
+Neuroeconomics Lab}
+\moveleft.5\hoffset\centerline{Caltech · 1200 E. California Blvd, MC
+228-77, Pasadena, CA 91125}
+%\moveleft.5\hoffset\centerline{ \faEnvelopeO \hspace{1 mm} \href{mailto:}{\tt \href{mailto:zenkavi@caltech.edu}{\nolinkurl{zenkavi@caltech.edu}}} \hspace{1 mm}  \faGithub \hspace{1 mm} \href{http://github.com/zenkavi}{\tt zenkavi} \hspace{1 mm}   \faTwitter \hspace{1 mm} \href{https:/twitter.com/zeynepenkavi}{\tt zeynepenkavi} \hspace{1 mm}   \orcidlink{0000-0001-7040-3620} \hspace{.5 mm} \href{https://orcid.org/0000-0001-7040-3620}{\tt 0000-0001-7040-3620} \hspace{1 mm}  \faGlobe \hspace{1 mm} \href{http://zenkavi.github.io/}{\tt zenkavi.github.io/}    | \emph{Updated:} 11
+Jun 2023}
+\moveleft.5\hoffset\centerline{ \faEnvelopeO \hspace{1 mm} \href{mailto:}{\tt \href{mailto:zenkavi@caltech.edu}{\nolinkurl{zenkavi@caltech.edu}}} \hspace{1 mm} 
+ \faGithub \hspace{1 mm} \href{http://github.com/zenkavi}{\tt zenkavi} \hspace{1 mm}   \faTwitter \hspace{1 mm} \href{https:/twitter.com/zeynepenkavi}{\tt zeynepenkavi} \hspace{1 mm}   \orcidlink{0000-0001-7040-3620} \hspace{.5 mm} \href{https://orcid.org/0000-0001-7040-3620}{\tt 0000-0001-7040-3620} \hspace{1 mm}  \faGlobe \hspace{1 mm} \href{http://zenkavi.github.io/}{\tt zenkavi.github.io/}    | \emph{Updated:} 11
+Jun 2023}
+
+\vspace{2 mm}
+
+\hrule
+
+
+
+\hypertarget{education}{%
+\section{Education}\label{education}}
+
+\emph{Stanford University} \hfill 2019\\
+Ph.D.~in Psychology (Neuroscience)\\
+Adviser: Russell A. Poldrack
+
+\emph{University of Pennsylvania} \hfill 2012\\
+B.A. in Cognitive Science, German Studies and Science, Technology and
+Society\\
+Adviser: Joseph W. Kable
+
+\hypertarget{employment}{%
+\section{Employment}\label{employment}}
+
+\emph{California Institute of Technology} \hfill 2019-Present\\
+Rangel Neuroeconomics Lab Postdoctoral Scholar\\
+Adviser: Antonio Rangel
+
+\emph{Columbia Business School} \hfill 2012-14\\
+Center for Decision Sciences Lab Manager\\
+Advisers: Eric J. Johnson, Elke U. Weber
+
+\hypertarget{honors-and-awards}{%
+\section{Honors and Awards}\label{honors-and-awards}}
+
+Penn World Scholars \hfill 2008-12\\
+University of Pennsylvania
+
+Erich Friedmann Memorial Prize \hfill 2012\\
+University of Pennsylvania
+
+Daniel B Shumway Prize \hfill 2009\\
+University of Pennsylvania
+
+\hypertarget{publications}{%
+\section{Publications}\label{publications}}
+
+\hypertarget{in-preparation}{%
+\subsection{In preparation}\label{in-preparation}}
+
+\textbf{Enkavi, A. Z.}, Lombardi, G., Hare, T., Rangel, A. Human simple
+choice in non-human experiments.
+
+\textbf{Enkavi, A. Z.}, Tavares, G., Rangel, A. Choosing between bundles
+of described and experienced risks.
+
+\textbf{Enkavi, A. Z.}, Helfinstein, S., Poldrack, R. A. Statistically
+the same but cognitively different models of risky behavior during
+adolescence.
+
+\hypertarget{peer-reviewed}{%
+\subsection{Peer-reviewed}\label{peer-reviewed}}
+
+\textbf{2022}
+
+Kliemann, D., Armstrong, T., Galdi, P., Kahn, D., Rusch, T.,
+\textbf{Enkavi, A. Z.}, Liang, D., Lograsso, S., Zhu, W., Yu, R., Nair,
+R., Paul, L., Tyszka, J. M., Adolphs, R. (2022) Caltech Conte Center - A
+multimodal data resource for exploring social cognition and
+decision-making. \emph{Scientific Data}, 9 (1), 1-15.
+
+\textbf{2021}
+
+\textbf{Enkavi, A. Z.}, Poldrack, R. A. (2021). Implications of the
+lacking relationship between cognitive task and self report measures for
+psychiatry. \emph{Biological Psychiatry: Cognitive Neuroscience and
+Neuroimaging}, 6 (7), 670-672.
+
+Mazza, G. L., Smyth, H. L., Bissett, P. G, Canning, J. R., Eisenberg, I.
+W., \textbf{Enkavi, A. Z.}, Gonzalez, O., Kim, S. J., Metcalf, S. A.,
+Muniz, F., Pelham III, W. E., Scherer E. A., Valente, M. J., Xie, H.,
+Poldrack, R. A., Marsch, L. A., MacKinnon, D. P. (2021). Correlation
+Database of 60 Cross-Disciplinary Surveys and Cognitive Tasks Assessing
+Self-Regulation. \emph{Journal of Personality Assessment}, 103 (2),
+238-245.
+
+\textbf{2019}
+
+\textbf{Enkavi, A. Z.}, Eisenberg, I. W., Bissett, P. G., Mazza, G. L.,
+MacKinnon, D. P., Marsch, L. A., \& Poldrack, R. A. (2019). Reply to
+Friedman and Banich: Right measures for the research question.
+\emph{Proceedings of the National Academy of Sciences}, 116 (49),
+24398-24399.
+
+Eisenberg, I. W., Bissett, P. G., \textbf{Enkavi, A. Z.}, Li, J.,
+MacKinnon, D. P., Marsch, L. A., \& Poldrack, R. A. (2019). Uncovering
+the structure of self-regulation through data-driven ontology discovery.
+\emph{Nature communications}, 10 (1), 2319.
+
+\textbf{Enkavi, A. Z.}, Eisenberg, I. W., Bissett, P. G., Mazza, G. L.,
+MacKinnon, D. P., Marsch, L. A., \& Poldrack, R. A. (2019). Large-scale
+analysis of test--retest reliabilities of self-regulation measures.
+\emph{Proceedings of the National Academy of Sciences}, 116 (12),
+5472-5477.
+
+\textbf{Pre - 2019}
+
+Eisenberg, I. W., Bissett, P. G., Canning, J. R., Dallery, J.,
+\textbf{Enkavi, A. Z.}, Whitfield-Gabrieli, S., \ldots{} \& Kim, S. J.
+(2018). Applying novel technologies and methods to inform the ontology
+of self-regulation. \emph{Behaviour research and therapy}, 101, 46-57.
+
+\textbf{Enkavi, A. Z.}, Weber, B., Zweyer, I., Wagner, J., Elger, C. E.,
+Weber, E. U., \& Johnson, E. J. (2017). Evidence for hippocampal
+dependence of value-based decisions. \emph{Scientific reports}, 7 (1),
+17738.
+
+Sochat, V. V., Eisenberg, I. W., \textbf{Enkavi, A. Z.}, Li, J.,
+Bissett, P. G., \& Poldrack, R. A. (2016). The experiment factory:
+standardizing behavioral experiments. \emph{Frontiers in psychology}, 7,
+610.
+
+Li, Y., Gao, J., \textbf{Enkavi, A. Z.}, Zaval, L., Weber, E. U., \&
+Johnson, E. J. (2015). Sound credit scores and financial decisions
+despite cognitive aging. \emph{Proceedings of the National Academy of
+Sciences}, 112 (1), 65-69.
+
+\hypertarget{invited-talks}{%
+\section{Invited Talks}\label{invited-talks}}
+
+\emph{2022}: NIMH RDoC Roundtable (Virtual)\\
+\emph{2021}: Cognitive Sciences Colloquium, UC Irvine (Virtual)\\
+\emph{2018}: Cognitive and Neuroscience Seminar Series, Stanford
+
+\hypertarget{conference-presentations}{%
+\section{Conference presentations}\label{conference-presentations}}
+
+\hypertarget{talks}{%
+\subsection{Talks}\label{talks}}
+
+Enkavi, A. Z. (2023), ``Human simple choice in a non-human primate
+paradigm'', Interdisciplinary Symposium on Decision Neuroscience, Temple
+University.
+
+Enkavi, A. Z. (2023), ``Human simple choice in a non-human primate
+paradigm'', Social and Decision Neuroscience Symposium Series, Caltech.
+
+Enkavi, A. Z. (2015), ``Preference consistency relies on hippocampal
+function: Evidence from mediotemporal lobe epilepsy'', Interdisciplinary
+Symposium on Decision Neuroscience, MIT.
+
+\hypertarget{posters}{%
+\subsection{Posters}\label{posters}}
+
+Enkavi, A. Z., Tavares, G., Rangel, A. ``Choice between multi-attribute
+and multi-modal uncertainties'' 2022. Society for Neuroeconomics Annual
+Meeting, Arlington, VA.
+
+Enkavi, A. Z., Tavares, G., Rangel, A. ``Choosing between bundles of
+described and experienced risks'' 2022. The Neurobiology of Reward And
+Decision-Making (II), Lake Arrowhead, California.
+
+Enkavi, A. Z., Eisenberg, I. W., Bissett, P. G., Mazza, G. L, MacKinnon,
+D. P., Marsch, L. A., Poldrack, R. A., ``A large scale analysis of
+cognitive task measures of self-regulation'' 2018. Society for
+Neuroeconomics Annual Meeting, Philadelphia, Pennsylvania.
+
+Enkavi, A. Z., Eisenberg, I. W., Bissett, P. G., Mazza, G. L, MacKinnon,
+D. P., Marsch, L. A., Poldrack, R. A., ``A large scale analysis of
+test-retest reliabilities of self-regulation measures'' 2017. Society of
+Judgment and Decision Making Annual Meeting, Vancouver, Canada.
+
+Enkavi, A. Z., Eisenberg, I. W., Bissett, P. G., Mazza, G. L, MacKinnon,
+D. P., Marsch, L. A., Poldrack, R. A., ``A large scale analysis of
+test-retest reliabilities of self-regulation measures'' 2017. Society
+for Neuroeconomics Annual Meeting, Toronto, Canada.
+
+Enkavi, A. Z., McClure, S. M, ``Beyond Delay Discounting: Intertemporal
+Choice Between Non-Unitary Rewards'' 2015. Society of Judgment and
+Decision Making Annual Meeting, Chicago, Illinois.
+
+Enkavi, A. Z., McClure, S. M, ``Beyond Delay Discounting: Intertemporal
+Choice Between Non-Unitary Rewards'' 2015 Society for Neuroeconomics
+Annual Meeting, Miami, Florida.
+
+Enkavi, A. Z., Gao, J., Li, Y., Johnson E. J., Weber, E. U. What
+Measures of Risk Attitude Predict Real World Risk Taking? 2014. Society
+of Judgment and Decision Making Annual Meeting, Long Beach, California.
+
+Enkavi, A. Z., Weber, B., Zweyer, I., Wagner, J., Elger, C. E., Weber,
+E. U., Johnson, E. J. Preference consistency relies on hippocampal
+function: Evidence from mediotemporal lobe epilepsy. 2014. Society of
+Judgment and Decision Making Annual Meeting, Long Beach, California.
+
+Kazinka, R., Enkavi, A. Z., Vo, K., Kable, J. W. Individual differences
+in the Asymmetric Dominance Effect. 2014. Society for Neuroeconomics
+Annual Meeting, Miami, Florida.
+
+Enkavi, A. Z., Gao, J., Li, Y., Zaval, L., Johnson E. J., Weber, E. U.
+Neurons die, not knowledge: Domain knowledge compensates for declining
+cognitive ability in financial decision-making. 2013. Society of
+Judgment and Decision Making Annual Meeting, Toronto, Canada.
+
+\hypertarget{training-courses-attended}{%
+\section{Training Courses Attended}\label{training-courses-attended}}
+
+Evidence-Based Undergraduate STEM Teaching\hfill 2023\\
+First Year Faculty Teaching Academy\hfill 2023\\
+Neuromatch Academy\hfill 2020\\
+OHBM: Fundamental Concepts and Methods in Network Neuroscience
+\hfill 2020\\
+OHBM Brainhack hackathon \hfill 2018\\
+SRNDNA computational modeling workshop for Decision Neuroscience and
+Aging \hfill 2015
+
+\hypertarget{teaching-and-mentorship}{%
+\section{Teaching and Mentorship}\label{teaching-and-mentorship}}
+
+Brain and Decision Making, TA \hfill 2018\\
+Introduction to Statistical Methods, Coding assistance \hfill 2018\\
+Psych One Teaching Fellow \hfill 2015-17\\
+Introduction to Learning and Memory, TA \hfill 2016\\
+Introduction to Cognitive Neuroscience, TA \hfill 2016
+
+\emph{Research advising}
+
+Vinh Ton, Stanford University \hfill 2016-18\\
+Dimitrios Konstantellos, MIT \hfill 2017\\
+Brian Wu, University of California, Berkeley \hfill 2016\\
+Andrea Bell, Columbia University \hfill 2014\\
+Joachim Talloen, Rutgers University \hfill 2014\\
+Tae Ho Kim, University of Chicago \hfill 2013
+
+\hypertarget{service}{%
+\section{Service}\label{service}}
+
+Caltech Postdoc Association Division co-representative, Caltech
+\hfill 2022-Present\\
+Graduate student cohort co-representative, Stanford University
+\hfill 2014-19\\
+Graduate student interview weekend co-organizer, Stanford University
+\hfill 2016
+
+\hypertarget{ad-hoc-reviewer}{%
+\section{Ad hoc Reviewer}\label{ad-hoc-reviewer}}
+
+Behavior Research Methods, Biological Psychiatry, Cerebral Cortex,
+Computational Psychiatry, Journal of Neuroscience, Psychology and
+Economics, Nature Human Behaviour, NeuroImage, Neuropsychopharmacology,
+Trends in Cognitive Sciences
+
+\hypertarget{references}{%
+\section{References}\label{references}}
+
+Antonio Rangel, Ph.D.\\
+California Institute of Technology
+
+Russell A. Poldrack, Ph.D.\\
+Stanford University
+
+Bridgette Martin-Hard, Ph.D.\\
+Duke University
+
+Eric J. Johnson, Ph.D.\\
+Columbia Business School
+
+Elke U. Weber, Ph.D.\\
+Princeton University
+
+Joseph W. Kable, Ph.D.\\
+University of Pennsylvania
+
+\end{document}

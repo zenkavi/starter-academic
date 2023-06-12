@@ -1,0 +1,191 @@
+---
+output: stevetemplates::cv
+# output: 
+#   pdf_document:
+#     latex_engine: pdflatex
+#     template: svm-latex-cv.tex
+geometry: margin=1in
+
+title: "CV"
+author: A. Zeynep Enkavi
+
+jobtitle: "Postdoctoral Scholar, Rangel Neuroeconomics Lab"
+address: "Caltech · 1200 E. California Blvd, MC 228-77, Pasadena, CA 91125"
+fontawesome: yes
+email: zenkavi@caltech.edu
+github: zenkavi
+# twitter: zeynepenkavi
+# osf: "a4hyq"
+orcid: "0000-0001-7040-3620"
+# phone: "+1 215 760 9290"
+web: zenkavi.github.io/
+updated: TRUE
+rdateformat: "`r format(Sys.time(), '%d %b %Y')`"
+
+keywords: R Markdown, academic CV, template
+
+fontfamily: mathpazo
+fontfamilyoptions: sc, osf
+fontsize: 11pt
+linkcolor: blue
+urlcolor: blue
+---
+
+# Education
+
+*Stanford University* \hfill 2019  
+Ph.D. in Psychology (Neuroscience)  
+Adviser: Russell A. Poldrack  
+
+*University of Pennsylvania* \hfill 2012  
+B.A. in Cognitive Science, German Studies and Science, Technology and Society  
+Adviser: Joseph W. Kable  
+
+# Employment
+
+*California Institute of Technology* \hfill 2019-Present  
+Rangel Neuroeconomics Lab
+Postdoctoral Scholar    
+Adviser: Antonio Rangel  
+
+*Columbia Business School* \hfill 2012-14  
+Center for Decision Sciences
+Lab Manager  
+Advisers: Eric J. Johnson, Elke U. Weber  
+
+# Publications
+
+## In preparation
+
+**Enkavi, A. Z.**, Lombardi, G., Hare, T., Rangel, A. Human simple choice in non-human experiments.
+
+**Enkavi, A. Z.**, Tavares, G., Rangel, A. Choosing between bundles of described and experienced risks.
+
+**Enkavi, A. Z.**, Helfinstein, S., Poldrack, R. A. Statistically the same but cognitively different models of risky behavior during adolescence.
+
+## Peer-reviewed
+
+**2022**
+
+Kliemann, D., Armstrong, T., Galdi, P., Kahn, D., Rusch, T., **Enkavi, A. Z.**, Liang, D., Lograsso, S., Zhu, W., Yu, R., Nair, R., Paul, L., Tyszka, J. M., Adolphs, R. (2022) Caltech Conte Center - A multimodal data resource for exploring social cognition and decision-making. *Scientific Data*, 9 (1), 1-15.
+
+**2021**
+
+**Enkavi, A. Z.**, Poldrack, R. A. (2021). Implications of the lacking relationship between cognitive task and self report measures for psychiatry. *Biological Psychiatry: Cognitive Neuroscience and Neuroimaging*, 6 (7), 670-672.
+
+Mazza, G. L., Smyth, H. L., Bissett, P. G, Canning, J. R., Eisenberg, I. W., **Enkavi, A. Z.**, Gonzalez, O., Kim, S. J., Metcalf, S. A., Muniz, F., Pelham III, W. E., Scherer E. A., Valente, M. J., Xie, H., Poldrack, R. A., Marsch, L. A., MacKinnon, D. P. (2021). Correlation Database of 60 Cross-Disciplinary Surveys and Cognitive Tasks Assessing Self-Regulation. *Journal of Personality Assessment*, 103 (2), 238-245.
+
+**2019**
+
+**Enkavi, A. Z.**, Eisenberg, I. W., Bissett, P. G., Mazza, G. L., MacKinnon, D. P., Marsch, L. A., & Poldrack, R. A. (2019). Reply to Friedman and Banich: Right measures for the research question. *Proceedings of the National Academy of Sciences*, 116 (49), 24398-24399.
+
+Eisenberg, I. W., Bissett, P. G., **Enkavi, A. Z.**, Li, J., MacKinnon, D. P., Marsch, L. A., & Poldrack, R. A. (2019). Uncovering the structure of self-regulation through data-driven ontology discovery. *Nature communications*, 10 (1), 2319.
+
+**Enkavi, A. Z.**, Eisenberg, I. W., Bissett, P. G., Mazza, G. L., MacKinnon, D. P., Marsch, L. A., & Poldrack, R. A. (2019). Large-scale analysis of test–retest reliabilities of self-regulation measures. *Proceedings of the National Academy of Sciences*, 116 (12), 5472-5477.
+
+**Pre - 2019**
+
+Eisenberg, I. W., Bissett, P. G., Canning, J. R., Dallery, J., **Enkavi, A. Z.**, Whitfield-Gabrieli, S., ... & Kim, S. J. (2018). Applying novel technologies and methods to inform the ontology of self-regulation. *Behaviour research and therapy*, 101, 46-57.
+
+**Enkavi, A. Z.**, Weber, B., Zweyer, I., Wagner, J., Elger, C. E., Weber, E. U., & Johnson, E. J. (2017). Evidence for hippocampal dependence of value-based decisions. *Scientific reports*, 7 (1), 17738.
+
+Sochat, V. V., Eisenberg, I. W., **Enkavi, A. Z.**, Li, J., Bissett, P. G., & Poldrack, R. A. (2016). The experiment factory: standardizing behavioral experiments. *Frontiers in psychology*, 7, 610.
+
+Li, Y., Gao, J., **Enkavi, A. Z.**, Zaval, L., Weber, E. U., & Johnson, E. J. (2015). Sound credit scores and financial decisions despite cognitive aging. *Proceedings of the National Academy of Sciences*, 112 (1), 65-69.
+
+# Invited Talks
+
+*2022*: NIMH RDoC Roundtable (Virtual)  
+*2021*: Cognitive Sciences Colloquium, UC Irvine (Virtual)  
+*2018*: Cognitive and Neuroscience Seminar Series, Stanford  
+
+# Conference presentations
+
+## Talks
+
+Enkavi, A. Z. (2023),  “Human simple choice in a non-human primate paradigm”, Interdisciplinary Symposium on Decision Neuroscience, Temple University.
+
+Enkavi, A. Z. (2023),  “Human simple choice in a non-human primate paradigm”, Social and Decision Neuroscience Symposium Series, Caltech. 
+
+Enkavi, A. Z. (2015),  “Preference consistency relies on hippocampal function: Evidence from mediotemporal lobe epilepsy”, Interdisciplinary Symposium on Decision Neuroscience, MIT. 
+
+## Posters
+
+Enkavi, A. Z., Tavares, G., Rangel, A.  “Choice between multi-attribute and multi-modal uncertainties” 2022. Society for Neuroeconomics Annual Meeting, Arlington, VA.
+
+Enkavi, A. Z., Tavares, G., Rangel, A.  “Choosing between bundles of described and experienced risks” 2022. The Neurobiology of Reward And Decision-Making (II), Lake Arrowhead, California.
+
+Enkavi, A. Z., Eisenberg, I. W., Bissett, P. G., Mazza, G. L, MacKinnon, D. P., Marsch, L. A., Poldrack, R. A., “A large scale analysis of cognitive task measures of self-regulation” 2018. Society for Neuroeconomics Annual Meeting, Philadelphia, Pennsylvania.
+
+Enkavi, A. Z., Eisenberg, I. W., Bissett, P. G., Mazza, G. L, MacKinnon, D. P., Marsch, L. A., Poldrack, R. A., “A large scale analysis of test-retest reliabilities of self-regulation measures” 2017. Society of Judgment and Decision Making Annual Meeting, Vancouver, Canada.
+
+Enkavi, A. Z., Eisenberg, I. W., Bissett, P. G., Mazza, G. L, MacKinnon, D. P., Marsch, L. A., Poldrack, R. A., “A large scale analysis of test-retest reliabilities of self-regulation measures” 2017. Society for Neuroeconomics Annual Meeting, Toronto, Canada.
+
+Enkavi, A. Z., McClure, S. M, “Beyond Delay Discounting: Intertemporal Choice Between Non-Unitary Rewards” 2015. Society of Judgment and Decision Making Annual Meeting, Chicago, Illinois.
+
+Enkavi, A. Z., McClure, S. M, “Beyond Delay Discounting: Intertemporal Choice Between Non-Unitary Rewards” 2015 Society for Neuroeconomics Annual Meeting, Miami, Florida.
+
+Enkavi, A. Z., Gao, J., Li, Y., Johnson E. J., Weber, E. U. What Measures of Risk Attitude Predict Real World Risk Taking? 2014. Society of Judgment and Decision Making Annual Meeting, Long Beach, California.
+
+Enkavi, A. Z., Weber, B., Zweyer, I., Wagner, J., Elger, C. E., Weber, E. U., Johnson, E. J.  Preference consistency relies on hippocampal function: Evidence from mediotemporal lobe epilepsy. 2014. Society of Judgment and Decision Making Annual Meeting, Long Beach, California.
+
+Kazinka, R., Enkavi, A. Z., Vo, K., Kable, J. W. Individual differences in the Asymmetric Dominance Effect. 2014. Society for Neuroeconomics Annual Meeting, Miami, Florida.
+
+Enkavi, A. Z., Gao, J., Li, Y., Zaval, L., Johnson E. J., Weber, E. U. Neurons die, not knowledge: Domain knowledge compensates for declining cognitive ability in financial decision-making. 2013. Society of Judgment and Decision Making Annual Meeting, Toronto, Canada.
+
+# Honors and Awards
+
+Penn World Scholars \hfill 2008-12  
+University of Pennsylvania  
+
+Erich Friedmann Memorial Prize \hfill 2012  
+University of Pennsylvania  
+
+Daniel B Shumway Prize \hfill 2009  
+University of Pennsylvania  
+
+# Training Courses Attended
+
+Evidence-Based Undergraduate STEM Teaching\hfill 2023  
+First Year Faculty Teaching Academy\hfill 2023  
+Neuromatch Academy\hfill 2020  
+OHBM: Fundamental Concepts and Methods in Network Neuroscience \hfill 2020  
+OHBM Brainhack hackathon \hfill 2018  
+SRNDNA computational modeling workshop for Decision Neuroscience and Aging \hfill 2015  
+
+# Teaching and Mentorship
+
+Brain and Decision Making, Teaching Assistant \hfill 2018  
+Introduction to Statistical Methods, Coding assistance \hfill 2018  
+Introduction to Learning and Memory, Teaching Assistant \hfill 2016  
+Introduction to Cognitive Neuroscience, Teaching Assistant \hfill 2016   
+Psych One Teaching Fellow \hfill 2015-17  
+
+*Research mentoring*
+
+Vinh Ton, Stanford University \hfill 2016-18  
+Dimitrios Konstantellos, MIT \hfill 2017  
+Brian Wu, University of California, Berkeley \hfill 2016  
+Andrea Bell, Columbia University \hfill 2014  
+Joachim Talloen, Rutgers University \hfill 2014  
+Tae Ho Kim, University of Chicago \hfill 2013  
+
+# Service
+
+Caltech Postdoc Association Division co-representative, Caltech \hfill 2022-Present    
+Graduate student cohort co-representative, Stanford University \hfill 2014-19   
+Graduate student interview weekend co-organizer, Stanford University \hfill 2016  
+Alumni interviewer, University of Pennsylvania \hfill 2014-18
+
+# Ad hoc Reviewer
+
+Behavior Research Methods, Biological Psychiatry, Cerebral Cortex, Computational Psychiatry, Journal of Neuroscience, Psychology and Economics, Nature Human Behaviour, NeuroImage, Neuropsychopharmacology, Trends in Cognitive Sciences  
+
+# References
+
+Antonio Rangel, Ph.D.        | California Institute of Technology   \hfill  rangel@hss.caltech.edu   
+Russell A. Poldrack, Ph.D.   | Stanford University                  \hfill  poldrack@stanford.edu   
+Bridgette Martin-Hard, Ph.D. | Duke University                      \hfill  bridgette.hard@duke.edu   
+Eric J. Johnson, Ph.D.       | Columbia Business School             \hfill  ejj3@gsb.columbia.edu   
+Elke U. Weber, Ph.D.         | Princeton University                 \hfill  eweber@princeton.edu   
+Joseph W. Kable, Ph.D.       | University of Pennsylvania           \hfill kable@psych.upenn.edu   
