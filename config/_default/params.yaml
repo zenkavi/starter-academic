@@ -141,3 +141,9 @@ icon:
 extensions:
   academicons:
     enable: true
+
+features:
+  syntax_highlighter:
+    theme_light: xcode-light
+    theme_dark: xcode-dark
+  math: true

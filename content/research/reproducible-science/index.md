@@ -2,8 +2,7 @@
 title: Reproducible science
 summary: How can we make cognitive neuroscience more reproducible?
 
-tags:
-- Reproducible science
+tags: ""
 date: ""
 
 show_date: false  # Show date?
