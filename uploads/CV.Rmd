@@ -9,17 +9,17 @@ geometry: margin=1in
 title: "CV"
 author: A. Zeynep Enkavi
 
-jobtitle: "Postdoctoral Scholar, Rangel Neuroeconomics Lab"
-address: "Caltech · 1200 E. California Blvd, MC 228-77, Pasadena, CA 91125"
+jobtitle: "Postdoctoral Scholar, Rangel Neuroeconomics Lab, Caltech"
+address: "1200 E. California Blvd, MC 228-77, Pasadena, CA 91125"
 fontawesome: yes
 email: zenkavi@caltech.edu
 github: zenkavi
 # twitter: zeynepenkavi
 # osf: "a4hyq"
 orcid: "0000-0001-7040-3620"
-# phone: "+1 215 760 9290"
+phone: "+1 215 760 9290"
 web: zenkavi.github.io/
-updated: TRUE
+updated: FALSE
 rdateformat: "`r format(Sys.time(), '%d %b %Y')`"
 
 keywords: R Markdown, academic CV, template
@@ -34,22 +34,24 @@ urlcolor: blue
 # Education
 
 *Stanford University* \hfill 2019  
-Ph.D. in Psychology (Neuroscience)  
+Ph.D. in Psychology   
+Concentration: Neuroscience  
 Adviser: Russell A. Poldrack  
 
 *University of Pennsylvania* \hfill 2012  
-B.A. in Cognitive Science, German Studies and Science, Technology and Society  
+B.A. in Cognitive Science, German Studies   
+Minor: Science, Technology and Society  
 Adviser: Joseph W. Kable  
 
 # Employment
 
 *California Institute of Technology* \hfill 2019-Present  
-Rangel Neuroeconomics Lab
+Rangel Neuroeconomics Lab  
 Postdoctoral Scholar    
 Adviser: Antonio Rangel  
 
 *Columbia Business School* \hfill 2012-14  
-Center for Decision Sciences
+Center for Decision Sciences  
 Lab Manager  
 Advisers: Eric J. Johnson, Elke U. Weber  
 
@@ -111,6 +113,8 @@ Enkavi, A. Z. (2015),  “Preference consistency relies on hippocampal function:
 
 ## Posters
 
+Enkavi, A. Z., Lombardi, G., Hare, T., Rangel, A. "Human simple choice in non-human experiments." 2023. Conference on Cognitive Computational Neuroscience, Oxford, UK.
+
 Enkavi, A. Z., Tavares, G., Rangel, A.  “Choice between multi-attribute and multi-modal uncertainties” 2022. Society for Neuroeconomics Annual Meeting, Arlington, VA.
 
 Enkavi, A. Z., Tavares, G., Rangel, A.  “Choosing between bundles of described and experienced risks” 2022. The Neurobiology of Reward And Decision-Making (II), Lake Arrowhead, California.
@@ -155,6 +159,8 @@ SRNDNA computational modeling workshop for Decision Neuroscience and Aging \hfil
 
 # Teaching and Mentorship
 
+[Stanford University]  
+
 Brain and Decision Making, Teaching Assistant \hfill 2018  
 Introduction to Statistical Methods, Coding assistance \hfill 2018  
 Introduction to Learning and Memory, Teaching Assistant \hfill 2016  
@@ -182,7 +188,16 @@ Alumni interviewer, University of Pennsylvania \hfill 2014-18
 
 # Ad hoc Reviewer
 
-Behavior Research Methods, Biological Psychiatry, Cerebral Cortex, Computational Psychiatry, Journal of Neuroscience, Psychology and Economics, Nature Human Behaviour, NeuroImage, Neuropsychopharmacology, Trends in Cognitive Sciences  
+Behavior Research Methods  
+Biological Psychiatry  
+Cerebral Cortex  
+Computational Psychiatry  
+Journal of Neuroscience, Psychology and Economics  
+Nature  
+Nature Human Behaviour   
+NeuroImage  
+Neuropsychopharmacology   
+Trends in Cognitive Sciences   
 
 # References
 
