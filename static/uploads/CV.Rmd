@@ -17,7 +17,7 @@ github: zenkavi
 # twitter: zeynepenkavi
 # osf: "a4hyq"
 orcid: "0000-0001-7040-3620"
-phone: "+1 215 760 9290"
+# phone: "+1 215 760 9290"
 web: zenkavi.github.io/
 updated: FALSE
 rdateformat: "`r format(Sys.time(), '%d %b %Y')`"
@@ -61,9 +61,11 @@ Advisers: Eric J. Johnson, Elke U. Weber
 
 **Enkavi, A. Z.**, Lombardi, G., Hare, T., Rangel, A. Human simple choice in non-human experiments.
 
+**Enkavi, A. Z.**, Goldman, J., Yang, L., Rangel, A. aDDM-Toolbox: Estimating time-varying drift rates with GPUs and Julia.
+
 **Enkavi, A. Z.**, Tavares, G., Rangel, A. Choosing between bundles of described and experienced risks.
 
-**Enkavi, A. Z.**, Helfinstein, S., Poldrack, R. A. Statistically the same but cognitively different models of risky behavior during adolescence.
+**Enkavi, A. Z.**, Helfinstein, S., Poldrack, R. A. Statistically identical but cognitively different models of risky behavior during adolescence.
 
 ## Peer-reviewed
 
@@ -206,4 +208,4 @@ Russell A. Poldrack, Ph.D.   | Stanford University                  \hfill  pold
 Bridgette Martin-Hard, Ph.D. | Duke University                      \hfill  bridgette.hard@duke.edu   
 Eric J. Johnson, Ph.D.       | Columbia Business School             \hfill  ejj3@gsb.columbia.edu   
 Elke U. Weber, Ph.D.         | Princeton University                 \hfill  eweber@princeton.edu   
-Joseph W. Kable, Ph.D.       | University of Pennsylvania           \hfill kable@psych.upenn.edu   
+Joseph W. Kable, Ph.D.       | University of Pennsylvania           \hfill  kable@psych.upenn.edu   
