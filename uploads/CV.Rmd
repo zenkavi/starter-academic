@@ -29,6 +29,9 @@ fontfamilyoptions: sc, osf
 fontsize: 11pt
 linkcolor: blue
 urlcolor: blue
+
+# To render
+# rmarkdown::render("./static/uploads/CV.Rmd")
 ---
 
 # Education
@@ -59,11 +62,15 @@ Advisers: Eric J. Johnson, Elke U. Weber
 
 ## In preparation
 
-**Enkavi, A. Z.**, Lombardi, G., Hare, T., Rangel, A. Human simple choice in non-human experiments.
+**Enkavi, A. Z.**, Lombardi, G., Hare, T., Rangel, A. Human simple choice in non-human experiments: Differences in value representations during decisions between familiar or novel items.
 
-**Enkavi, A. Z.**, Goldman, J., Yang, L., Rangel, A. aDDM-Toolbox: Estimating time-varying drift rates with GPUs and Julia.
+**Enkavi, A. Z.**, Goldman, J., Yang, L., Rangel, A. aDDM-Toolbox: Estimating time-varying drift rates with GPUs, Julia or Python.
+
+**Enkavi, A. Z.**, Goldman, J., Yang, L., Rangel, A. A meta-analytic review of attentional discounting effects in simple value-based choice.
 
 **Enkavi, A. Z.**, Tavares, G., Rangel, A. Choosing between bundles of described and experienced risks.
+
+Bissett, P. G., Eisenberg, I. W., Shim, S., Rios, J. A. H., Jones, H. M., Hagen, M. P., **Enkavi, A. Z.**, Li, J. K., Mumford, J. A., MacKinnon, D. P., Marsch, L. A., & Poldrack, R. A. Cognitive tasks, anatomical MRI, and functional MRI data evaluating the construct of self-regulation.
 
 **Enkavi, A. Z.**, Helfinstein, S., Poldrack, R. A. Statistically identical but cognitively different models of risky behavior during adolescence.
 
@@ -173,6 +180,9 @@ Psych One Teaching Fellow \hfill 2015-17
 
 Lynn Yang, Caltech \hfill 2023  
 Jacob Goldman, Caltech \hfill 2023  
+Jordan Threat, Caltech \hfill 2023  
+Carolina Lopez, Caltech \hfill 2023  
+Hanna Park, Caltech \hfill 2023  
 Omer Ekin, Tufts University \hfill 2018   
 Vinh Ton, Stanford University \hfill 2016-18  
 Dimitrios Konstantellos, MIT \hfill 2017  
