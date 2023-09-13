@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.9.5)  5 SEP 2023 11:43
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.9.12)  12 SEP 2023 17:13
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -693,14 +693,14 @@ Package rerunfilecheck Info: File `CV.out' has not changed.
  ) 
 Here is how much of TeX's memory you used:
  24017 strings out of 476894
- 440761 string characters out of 5808191
- 1930807 words of memory out of 5000000
+ 440761 string characters out of 5808190
+ 1931807 words of memory out of 5000000
  44842 multiletter control sequences out of 15000+600000
  594866 words of font info for 90 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 117i,12n,121p,1014b,698s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 117i,11n,121p,1014b,698s stack positions out of 10000i,1000n,20000p,200000b,200000s
  </Users/zenkavi/Library/TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/ectt1095.600pk></Users/zenkavi/Library/TinyTeX/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb></Users/zenkavi/Library/TinyTeX/texmf-dist/fonts/type1/public/fpl/fplbj8a.pfb></Users/zenkavi/Library/TinyTeX/texmf-dist/fonts/type1/public/fpl/fplrc8a.pfb></Users/zenkavi/Library/TinyTeX/texmf-dist/fonts/type1/public/fpl/fplrij8a.pfb></Users/zenkavi/Library/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></Users/zenkavi/Library/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></Users/zenkavi/Library/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on CV.pdf (5 pages, 135974 bytes).
+Output written on CV.pdf (5 pages, 136500 bytes).
 PDF statistics:
  183 PDF objects out of 1000 (max. 8388607)
  133 compressed objects within 2 object streams
