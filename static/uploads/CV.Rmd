@@ -66,7 +66,7 @@ Advisers: Eric J. Johnson, Elke U. Weber
 
 **Enkavi, A. Z.**, Goldman, J., Yang, L., Rangel, A. aDDM-Toolbox: Estimating time-varying drift rates with GPUs, Julia or Python.
 
-**Enkavi, A. Z.**, Goldman, J., Yang, L., Rangel, A. A meta-analytic review of attentional discounting effects in simple value-based choice.
+**Enkavi, A. Z.**, Schroder, E., Goldman, J., Yang, L., Rangel, A. A meta-analytic review of attentional discounting effects in simple value-based choice.
 
 **Enkavi, A. Z.**, Tavares, G., Rangel, A. Choosing between bundles of described and experienced risks.
 
