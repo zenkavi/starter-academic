@@ -1,5 +1,5 @@
 ---
-title: Open and Reproducible Science Tools
+title: Atttentional Drift Diffusion Model
 summary: ""
 
 tags: ""
@@ -9,7 +9,7 @@ show_date: false  # Show date?
 profile: false  # Show author profile?
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+external_link: "https://addm-toolbox.github.io/"
 
 image:
   caption:

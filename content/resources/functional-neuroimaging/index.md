@@ -1,5 +1,5 @@
 ---
-title: Learning and Decision-making
+title: Functional Neuroimaging
 summary: ""
 
 tags: ""
@@ -9,7 +9,7 @@ show_date: false  # Show date?
 profile: false  # Show author profile?
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+external_link: "https://zenkavi.github.io/IntroTofMRI/content/intro.html"
 
 image:
   caption:
