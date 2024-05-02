@@ -48,7 +48,11 @@ Adviser: Joseph W. Kable
 
 # Employment
 
-*California Institute of Technology* \hfill 2019-Present  
+*Claremont McKenna College* \hfill 2024-  
+Kravis Department of Integrated Sciences  
+Assistant Professor of Integrated Sciences: Neuroscience    
+
+*California Institute of Technology* \hfill 2019-24  
 Rangel Neuroeconomics Lab  
 Postdoctoral Scholar    
 Adviser: Antonio Rangel  
@@ -74,37 +78,27 @@ Advisers: Eric J. Johnson, Elke U. Weber
 
 ## Peer-reviewed
 
-**2023**
+1. Bissett, P. G., Eisenberg, I. W., Shim, S., Rios, J. A. H., Jones, H. M., Hagen, M. P., **Enkavi, A. Z.**, Li, J. K., Mumford, J. A., MacKinnon, D. P., Marsch, L. A., & Poldrack, R. A. (2023) Cognitive tasks, anatomical MRI, and functional MRI data evaluating the construct of self-regulation. *Submitted* *bioRxiv 2023.09.27.559869*
 
-Bissett, P. G., Eisenberg, I. W., Shim, S., Rios, J. A. H., Jones, H. M., Hagen, M. P., **Enkavi, A. Z.**, Li, J. K., Mumford, J. A., MacKinnon, D. P., Marsch, L. A., & Poldrack, R. A. (2023) Cognitive tasks, anatomical MRI, and functional MRI data evaluating the construct of self-regulation. *Submitted* *bioRxiv 2023.09.27.559869*
+#. Kliemann, D., Armstrong, T., Galdi, P., Kahn, D., Rusch, T., **Enkavi, A. Z.**, Liang, D., Lograsso, S., Zhu, W., Yu, R., Nair, R., Paul, L., Tyszka, J. M., Adolphs, R. (2022) Caltech Conte Center - A multimodal data resource for exploring social cognition and decision-making. *Scientific Data*, 9 (1), 1-15.
 
-**2022**
+#. **Enkavi, A. Z.**, Poldrack, R. A. (2021). Implications of the lacking relationship between cognitive task and self report measures for psychiatry. *Biological Psychiatry: Cognitive Neuroscience and Neuroimaging*, 6 (7), 670-672.
 
-Kliemann, D., Armstrong, T., Galdi, P., Kahn, D., Rusch, T., **Enkavi, A. Z.**, Liang, D., Lograsso, S., Zhu, W., Yu, R., Nair, R., Paul, L., Tyszka, J. M., Adolphs, R. (2022) Caltech Conte Center - A multimodal data resource for exploring social cognition and decision-making. *Scientific Data*, 9 (1), 1-15.
+#. Mazza, G. L., Smyth, H. L., Bissett, P. G, Canning, J. R., Eisenberg, I. W., **Enkavi, A. Z.**, Gonzalez, O., Kim, S. J., Metcalf, S. A., Muniz, F., Pelham III, W. E., Scherer E. A., Valente, M. J., Xie, H., Poldrack, R. A., Marsch, L. A., MacKinnon, D. P. (2021). Correlation Database of 60 Cross-Disciplinary Surveys and Cognitive Tasks Assessing Self-Regulation. *Journal of Personality Assessment*, 103 (2), 238-245.
 
-**2021**
+#. **Enkavi, A. Z.**, Eisenberg, I. W., Bissett, P. G., Mazza, G. L., MacKinnon, D. P., Marsch, L. A., & Poldrack, R. A. (2019). Reply to Friedman and Banich: Right measures for the research question. *Proceedings of the National Academy of Sciences*, 116 (49), 24398-24399.
 
-**Enkavi, A. Z.**, Poldrack, R. A. (2021). Implications of the lacking relationship between cognitive task and self report measures for psychiatry. *Biological Psychiatry: Cognitive Neuroscience and Neuroimaging*, 6 (7), 670-672.
+#. Eisenberg, I. W., Bissett, P. G., **Enkavi, A. Z.**, Li, J., MacKinnon, D. P., Marsch, L. A., & Poldrack, R. A. (2019). Uncovering the structure of self-regulation through data-driven ontology discovery. *Nature communications*, 10 (1), 2319.
 
-Mazza, G. L., Smyth, H. L., Bissett, P. G, Canning, J. R., Eisenberg, I. W., **Enkavi, A. Z.**, Gonzalez, O., Kim, S. J., Metcalf, S. A., Muniz, F., Pelham III, W. E., Scherer E. A., Valente, M. J., Xie, H., Poldrack, R. A., Marsch, L. A., MacKinnon, D. P. (2021). Correlation Database of 60 Cross-Disciplinary Surveys and Cognitive Tasks Assessing Self-Regulation. *Journal of Personality Assessment*, 103 (2), 238-245.
+#. **Enkavi, A. Z.**, Eisenberg, I. W., Bissett, P. G., Mazza, G. L., MacKinnon, D. P., Marsch, L. A., & Poldrack, R. A. (2019). Large-scale analysis of test–retest reliabilities of self-regulation measures. *Proceedings of the National Academy of Sciences*, 116 (12), 5472-5477.
 
-**2019**
+#. Eisenberg, I. W., Bissett, P. G., Canning, J. R., Dallery, J., **Enkavi, A. Z.**, Whitfield-Gabrieli, S., ... & Kim, S. J. (2018). Applying novel technologies and methods to inform the ontology of self-regulation. *Behaviour research and therapy*, 101, 46-57.
 
-**Enkavi, A. Z.**, Eisenberg, I. W., Bissett, P. G., Mazza, G. L., MacKinnon, D. P., Marsch, L. A., & Poldrack, R. A. (2019). Reply to Friedman and Banich: Right measures for the research question. *Proceedings of the National Academy of Sciences*, 116 (49), 24398-24399.
+#. **Enkavi, A. Z.**, Weber, B., Zweyer, I., Wagner, J., Elger, C. E., Weber, E. U., & Johnson, E. J. (2017). Evidence for hippocampal dependence of value-based decisions. *Scientific reports*, 7 (1), 17738.
 
-Eisenberg, I. W., Bissett, P. G., **Enkavi, A. Z.**, Li, J., MacKinnon, D. P., Marsch, L. A., & Poldrack, R. A. (2019). Uncovering the structure of self-regulation through data-driven ontology discovery. *Nature communications*, 10 (1), 2319.
+#. Sochat, V. V., Eisenberg, I. W., **Enkavi, A. Z.**, Li, J., Bissett, P. G., & Poldrack, R. A. (2016). The experiment factory: standardizing behavioral experiments. *Frontiers in psychology*, 7, 610.
 
-**Enkavi, A. Z.**, Eisenberg, I. W., Bissett, P. G., Mazza, G. L., MacKinnon, D. P., Marsch, L. A., & Poldrack, R. A. (2019). Large-scale analysis of test–retest reliabilities of self-regulation measures. *Proceedings of the National Academy of Sciences*, 116 (12), 5472-5477.
-
-**Pre - 2019**
-
-Eisenberg, I. W., Bissett, P. G., Canning, J. R., Dallery, J., **Enkavi, A. Z.**, Whitfield-Gabrieli, S., ... & Kim, S. J. (2018). Applying novel technologies and methods to inform the ontology of self-regulation. *Behaviour research and therapy*, 101, 46-57.
-
-**Enkavi, A. Z.**, Weber, B., Zweyer, I., Wagner, J., Elger, C. E., Weber, E. U., & Johnson, E. J. (2017). Evidence for hippocampal dependence of value-based decisions. *Scientific reports*, 7 (1), 17738.
-
-Sochat, V. V., Eisenberg, I. W., **Enkavi, A. Z.**, Li, J., Bissett, P. G., & Poldrack, R. A. (2016). The experiment factory: standardizing behavioral experiments. *Frontiers in psychology*, 7, 610.
-
-Li, Y., Gao, J., **Enkavi, A. Z.**, Zaval, L., Weber, E. U., & Johnson, E. J. (2015). Sound credit scores and financial decisions despite cognitive aging. *Proceedings of the National Academy of Sciences*, 112 (1), 65-69.
+#. Li, Y., Gao, J., **Enkavi, A. Z.**, Zaval, L., Weber, E. U., & Johnson, E. J. (2015). Sound credit scores and financial decisions despite cognitive aging. *Proceedings of the National Academy of Sciences*, 112 (1), 65-69.
 
 # Invited Talks
 
@@ -181,7 +175,7 @@ Psych One Teaching Fellow \hfill 2015-17
 *Undergraduate Research Mentoring*
 
 Lynn Yang, Caltech \hfill 2023  
-Jacob Goldman, Caltech \hfill 2023  
+Jacob Goldman, Caltech \hfill 2023-24  
 Jordan Threat, Caltech \hfill 2023  
 Carolina Lopez, Caltech \hfill 2023  
 Hanna Park, Caltech \hfill 2023  
@@ -195,7 +189,7 @@ Tae Ho Kim, University of Chicago \hfill 2013
 
 # Service
 
-Caltech Postdoc Association Division co-representative, Caltech \hfill 2022-Present    
+Caltech Postdoc Association Division co-representative, Caltech \hfill 2022-24    
 Graduate student cohort co-representative, Stanford University \hfill 2014-19   
 Graduate student interview weekend co-organizer, Stanford University \hfill 2016  
 Alumni interviewer, University of Pennsylvania \hfill 2014-18
@@ -205,6 +199,7 @@ Alumni interviewer, University of Pennsylvania \hfill 2014-18
 Behavior Research Methods  
 Biological Psychiatry  
 Cerebral Cortex  
+Communications Psychology  
 Computational Psychiatry  
 Journal of Neuroscience, Psychology and Economics  
 Nature  
