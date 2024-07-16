@@ -52,6 +52,9 @@ Adviser: Joseph W. Kable
 Kravis Department of Integrated Sciences  
 Assistant Professor of Integrated Sciences: Neuroscience    
 
+*California Institute of Technology* \hfill 2024-26  
+Visiting Associate    
+
 *California Institute of Technology* \hfill 2019-24  
 Rangel Neuroeconomics Lab  
 Postdoctoral Scholar    
@@ -78,7 +81,7 @@ Advisers: Eric J. Johnson, Elke U. Weber
 
 ## Peer-reviewed
 
-1. Bissett, P. G., Eisenberg, I. W., Shim, S., Rios, J. A. H., Jones, H. M., Hagen, M. P., **Enkavi, A. Z.**, Li, J. K., Mumford, J. A., MacKinnon, D. P., Marsch, L. A., & Poldrack, R. A. (2023) Cognitive tasks, anatomical MRI, and functional MRI data evaluating the construct of self-regulation. *Submitted* *bioRxiv 2023.09.27.559869*
+1. Bissett, P. G., Eisenberg, I. W., Shim, S., Rios, J. A. H., Jones, H. M., Hagen, M. P., **Enkavi, A. Z.**, Li, J. K., Mumford, J. A., MacKinnon, D. P., Marsch, L. A., & Poldrack, R. A. (2023) Cognitive tasks, anatomical MRI, and functional MRI data evaluating the construct of self-regulation. *Accepted at Scientific Data* *bioRxiv 2023.09.27.559869*
 
 #. Kliemann, D., Armstrong, T., Galdi, P., Kahn, D., Rusch, T., **Enkavi, A. Z.**, Liang, D., Lograsso, S., Zhu, W., Yu, R., Nair, R., Paul, L., Tyszka, J. M., Adolphs, R. (2022) Caltech Conte Center - A multimodal data resource for exploring social cognition and decision-making. *Scientific Data*, 9 (1), 1-15.
 
