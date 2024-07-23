@@ -7,6 +7,7 @@
 appearance:
   # theme_day: forest
   color: red
+  mode: light
   day_night: false
   font: ''
 font_size: s
