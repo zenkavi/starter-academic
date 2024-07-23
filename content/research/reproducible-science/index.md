@@ -45,7 +45,6 @@ This is a prospective project in a very early stage that I want to continue work
 - Online platform to upload published/unpublished datasets
 - Result and keyword extractor from published papers
 - Crowd-sourced tagging system of extracted results
-- Search engine to filter extracted results
 
 **References:**
 

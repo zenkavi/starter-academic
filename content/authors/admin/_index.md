@@ -10,19 +10,19 @@ authors:
 superuser: true
 
 # Role/position
-role: Postdoctoral Scholar in Neuroeconomics
+role: Assistant Professor of Integrated Sciences
 
 # Organizations/Affiliations
 organizations:
-- name: California Institute of Technology
-  url: "https://www.hss.caltech.edu/people/ayse-z-enkavi"
+- name: Claremont McKenna College
+  url: "https://www.cmc.edu/kravis-department-of-integrated-sciences/faculty-and-staff"
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include decision-making, network neuroscience, and reproducibility.
 bio: ""
 
 interests:
-- Decision-making
+- Neurobiology of self-control
 - Network neuroscience
 - Reproducible science
 
@@ -42,7 +42,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:zenkavi@caltech.edu  # For a direct email link, use "mailto:test@example.org".
+  link: mailto:zenkavi@cmc.edu  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/zeynepenkavi
@@ -69,4 +69,4 @@ user_groups: []
 #- Visitors
 ---
 
-I am a postdoctoral scholar at Caltech working with [Antonio Rangel](http://www.hss.caltech.edu/people/antonio-rangel). I will be joining the [Kravis Department of Integrated Sciences](https://www.cmc.edu/kravis-department-of-integrated-sciences/faculty-and-staff) at Claremont McKenna College in the summer of 2024 as an Assistant Professor. I received my PhD from Stanford where I worked with [Russell Poldrack](https://profiles.stanford.edu/russell-poldrack). I study neural correlates of decision-making, particularly decisions that involve self-control. My work has a strong emphasis on methodological rigor and reproducibility. To this end I investigate the psychometric properties of measures in the field and build statistical models for neuroimaging data that account for the brain's network structure.
+I am a postdoctoral scholar at Caltech working with . I will be joining the [Kravis Department of Integrated Sciences](https://www.cmc.edu/kravis-department-of-integrated-sciences/faculty-and-staff) at Claremont McKenna College in the summer of 2024 as an Assistant Professor. I received my PhD from Stanford where I worked with [Russell Poldrack](https://profiles.stanford.edu/russell-poldrack) and completed post-doctoral work at Caltech working with [Antonio Rangel](http://www.hss.caltech.edu/people/antonio-rangel). I study neurobiological correlates of decisions that involve self-control. My work has a strong emphasis on methodological rigor and reproducibility. To this end I investigate the psychometric properties of measures in the field and build statistical models for neuroimaging data that account for the brain's network structure.
