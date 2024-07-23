@@ -1,7 +1,7 @@
 name: Updater (WIP)
 
-# on:
-#   schedule:
+on:
+  schedule:
 #     - cron: 0 0 * * 0
 
 jobs:
