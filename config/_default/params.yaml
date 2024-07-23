@@ -5,7 +5,8 @@
 
 # Appearance
 appearance:
-  theme_day: forest
+  # theme_day: forest
+  color: red
   day_night: false
   font: ''
 font_size: s
@@ -14,24 +15,24 @@ font_size: s
 
 site_type: Person
 local_business_type: ''
-org_name: California Institute of Technology
+org_name: Claremont McKenna College
 description: ''
 twitter: zeynepenkavi
 
 # Contact (edit or remove options as required)
 
-email: zenkavi@caltech.edu
+email: zenkavi@cmc.edu
 phone: ''
 address:
-  street: 1200 E. California Blvd.
-  city: Pasadena
+  street: 888 N Columbia Ave
+  city: Claremont
   region: CA
-  postcode: '91125'
+  postcode: '91711'
   country: United States
   country_code: US
 coordinates:
-  latitude: '34.138520'
-  longitude: '-118.125160'
+  latitude: ''
+  longitude: ''
 directions: ''
 office_hours: []
 appointment_url: ''
