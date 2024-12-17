@@ -1,9 +1,5 @@
 ---
-output: stevetemplates::cv
-# output: 
-#   pdf_document:
-#     latex_engine: pdflatex
-#     template: svm-latex-cv.tex
+output: stevetemplates::cv2
 geometry: margin=1in
 
 title: "CV"
@@ -30,42 +26,50 @@ fontsize: 11pt
 linkcolor: blue
 urlcolor: blue
 
+header-includes:
+  - \usepackage{array}
+  - \usepackage{booktabs}
+  - \usepackage{ragged2e}
+  - \usepackage{graphicx}
+
 # To render
 # rmarkdown::render("./static/uploads/CV.Rmd")
 ---
 
 # Academic Appointments
 
-*Claremont McKenna College* \hfill 2024-  
+## Claremont McKenna College 
+Assistant Professor of Integrated Sciences: Neuroscience \hfill 2024-  
 Kravis Department of Integrated Sciences  
-Assistant Professor of Integrated Sciences: Neuroscience    
 
-*California Institute of Technology* \hfill 2024-26  
-Visiting Associate    
+## California Institute of Technology  
+Visiting Associate    \hfill 2024-26   
 
-*California Institute of Technology* \hfill 2019-24  
+## California Institute of Technology  
+Postdoctoral Scholar    \hfill 2019-24   
 Rangel Neuroeconomics Lab  
-Postdoctoral Scholar    
 Adviser: Antonio Rangel  
 
-*Columbia Business School* \hfill 2012-14  
+## Columbia Business School 
+Lab Manager  \hfill 2012-14  
 Center for Decision Sciences  
-Lab Manager  
 Advisers: Eric J. Johnson, Elke U. Weber  
 
 # Education
 
-*Stanford University* \hfill 2019  
-Ph.D. in Psychology   
+## Stanford University 
+Ph.D. in Psychology   \hfill 2019  
 Concentration: Neuroscience  
 Adviser: Russell A. Poldrack  
 
-*University of Pennsylvania* \hfill 2012  
-B.A. in Cognitive Science, German Studies   
+## University of Pennsylvania 
+B.A. in Cognitive Science, German Studies   \hfill 2012  
 Minor: Science, Technology and Society  
 Adviser: Joseph W. Kable  
 
 # Publications
+
+*Citations: 1320 | h-index: 9 | i10-index: 9*  
 
 ## Peer-reviewed
 
@@ -105,9 +109,9 @@ Adviser: Joseph W. Kable
 
 # Invited Talks
 
-*2022*: NIMH RDoC Roundtable (Virtual)  
-*2021*: Cognitive Sciences Colloquium, UC Irvine (Virtual)  
-*2018*: Cognitive and Neuroscience Seminar Series, Stanford  
+NIMH RDoC Roundtable (Virtual)  \hfill 2022   
+Cognitive Sciences Colloquium, UC Irvine (Virtual)  \hfill 2021  
+Cognitive and Neuroscience Seminar Series, Stanford  \hfill 2018  
 
 # Conference presentations
 
@@ -158,20 +162,24 @@ University of Pennsylvania
 
 # Training Courses Attended
 
-Evidence-Based Undergraduate STEM Teaching\hfill 2023  
-First Year Faculty Teaching Academy\hfill 2023  
-Neuromatch Academy\hfill 2020  
+Evidence-Based Undergraduate STEM Teaching \hfill 2023  
+First Year Faculty Teaching Academy \hfill 2023  
+Neuromatch Academy \hfill 2020  
 OHBM: Fundamental Concepts and Methods in Network Neuroscience \hfill 2020  
 OHBM Brainhack hackathon \hfill 2018  
 SRNDNA computational modeling workshop for Decision Neuroscience and Aging \hfill 2015  
 
 # Teaching and Mentorship
 
-[Claremont McKenna College]
+### Claremont McKenna College  
+ 
+SCI010: Codes of Life, Instructor of Record   
+F'24, S'25
 
-Codes of Life, Instructor of Record \hfill 2024  
+SCI050: Computing for Scientific Discovery, Instructor of Record   
+S'26
 
-[Stanford University]  
+### Stanford University    
 
 Brain and Decision Making, Teaching Assistant \hfill 2018  
 Introduction to Statistical Methods, Coding assistance \hfill 2018  
@@ -179,10 +187,13 @@ Introduction to Learning and Memory, Teaching Assistant \hfill 2016
 Introduction to Cognitive Neuroscience, Teaching Assistant \hfill 2016   
 Psych One Teaching Fellow \hfill 2015-17  
 
-*Undergraduate Research Mentoring*
+## Undergraduate Research Mentoring  
 
-Lynn Yang, Caltech \hfill 2023  
+Ulas Ayyilmaz, Pomona College \hfill 2025  
+Brayden Chien, Claremont McKenna College \hfill 2024  
+Allison Rudolph, Claremont McKenna College \hfill 2024  
 Jacob Goldman, Caltech \hfill 2023-24  
+Lynn Yang, Caltech \hfill 2023  
 Jordan Threat, Caltech \hfill 2023  
 Carolina Lopez, Caltech \hfill 2023  
 Hanna Park, Caltech \hfill 2023  
@@ -196,9 +207,18 @@ Tae Ho Kim, University of Chicago \hfill 2013
 
 # Service
 
-Caltech Postdoc Association Division co-representative, Caltech \hfill 2022-24    
-Graduate student cohort co-representative, Stanford University \hfill 2014-19   
-Graduate student interview weekend co-organizer, Stanford University \hfill 2016  
+## Claremont McKenna College
+
+Neuroscience Search Committee, Kravis Department of Integrated Sciences \hfill 2024  
+
+## California Institute of Technology  
+
+Caltech Postdoc Association Division co-representative \hfill 2022-24  
+
+## Stanford University  
+
+Graduate student cohort co-representative \hfill 2014-19   
+Graduate student interview weekend co-organizer \hfill 2016  
 Alumni interviewer, University of Pennsylvania \hfill 2014-18
 
 # Ad hoc Reviewer
@@ -217,9 +237,17 @@ Trends in Cognitive Sciences
 
 # References
 
-Antonio Rangel, Ph.D.        | California Institute of Technology   \hfill  rangel@hss.caltech.edu   
-Russell A. Poldrack, Ph.D.   | Stanford University                  \hfill  poldrack@stanford.edu   
-Bridgette Martin-Hard, Ph.D. | Duke University                      \hfill  bridgette.hard@duke.edu   
-Eric J. Johnson, Ph.D.       | Columbia Business School             \hfill  ejj3@gsb.columbia.edu   
-Elke U. Weber, Ph.D.         | Princeton University                 \hfill  eweber@princeton.edu   
-Joseph W. Kable, Ph.D.       | University of Pennsylvania           \hfill  kable@psych.upenn.edu   
+Antonio Rangel, Ph.D.  
+Bing Professor of Neuroscience, Behavioral Biology, and Economics; Head Faculty in Residence  
+California Institute of Technology   
+rangel@hss.caltech.edu     
+
+Russell A. Poldrack, Ph.D.     
+Albert Ray Lang Professor of Psychology    
+Stanford University                  
+poldrack@stanford.edu   
+
+Bridgette Martin-Hard, Ph.D. *(Teaching)*  
+Professor of the Practice of Psychology and Neuroscience  
+Duke University                      
+bridgette.hard@duke.edu   
